@@ -41,7 +41,7 @@ Untranslated events fall back to English, so a language can be added incremental
 
 ## Deploy
 
-Any static host works. For GitHub Pages: Settings → Pages → deploy from the `main` branch, root folder.
+Live at <https://bolsonaro.fyi>. It is served by GitHub Pages from the `main` branch (root folder); the custom domain is set in the `CNAME` file. Any other static host works too.
 
 ## License
 

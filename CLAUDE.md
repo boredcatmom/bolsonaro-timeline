@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-Static, multilingual timeline of the Bolsonaro family in Brazilian politics. Plain HTML/CSS/JS (ES modules), no framework, no build step. Deployed with GitHub Pages from `main` (root).
+Static, multilingual timeline of the Bolsonaro family in Brazilian politics. Plain HTML/CSS/JS (ES modules), no framework, no build step. Deployed with GitHub Pages from `main` (root) at https://bolsonaro.fyi (see `CNAME`).
 
 ## Commands
 
