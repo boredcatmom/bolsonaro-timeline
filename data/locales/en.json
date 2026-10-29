@@ -1,0 +1,202 @@
+{
+  "ui": {
+    "title": "Bolsonaro Family Timeline",
+    "subtitle": "Four decades of a political family in Brazil, event by event, with sources.",
+    "language": "Language",
+    "skipToTimeline": "Skip to timeline",
+    "notice": "Every event links to the news reports it is based on. Found an error or a better source? Please open an issue or pull request on GitHub.",
+    "filters": "Filters",
+    "searchPlaceholder": "Search events…",
+    "filterPeople": "People",
+    "filterCategories": "Categories",
+    "clearFilters": "Clear filters",
+    "resultCount": "Showing {shown} of {total} events",
+    "noResults": "No events match these filters.",
+    "sources": "Sources",
+    "sourcePending": "Source pending",
+    "context": "Context",
+    "copyLink": "Copy link",
+    "linkCopied": "Link copied!",
+    "footer": "Open source project. Code under MIT, content under CC BY-SA 4.0. Every event must cite at least one public source.",
+    "contribute": "Contribute on GitHub"
+  },
+  "categories": {
+    "office": "Elections & office",
+    "justice": "Courts",
+    "investigation": "Investigations",
+    "foreign": "United States & abroad",
+    "statements": "Statements",
+    "context": "Context"
+  },
+  "people": {
+    "jair": { "role": "Former president of Brazil (2019–2022), serving a 27-year sentence for attempting a coup" },
+    "flavio": { "role": "Senator for Rio de Janeiro; defeated 2026 presidential candidate" },
+    "eduardo": { "role": "Former federal deputy for São Paulo; lives in the United States" },
+    "carlos": { "role": "Rio de Janeiro city councilor" },
+    "renan": { "role": "Balneário Camboriú city councilor" },
+    "michelle": { "role": "Former first lady" }
+  },
+  "events": {
+    "1988-jair-city-council": {
+      "title": "Jair Bolsonaro elected to Rio de Janeiro city council",
+      "summary": "A retired Army captain, Jair Bolsonaro wins his first elected office as a city councilor in Rio de Janeiro, for the Christian Democratic Party (PDC)."
+    },
+    "1990-jair-federal-deputy": {
+      "title": "Jair Bolsonaro elected federal deputy",
+      "summary": "Bolsonaro is elected to Brazil's Chamber of Deputies for Rio de Janeiro and gives up his city council seat. He would hold the federal seat from 1991 to 2018, switching parties several times along the way."
+    },
+    "2000-carlos-city-council": {
+      "title": "Carlos Bolsonaro, 17, elected to Rio city council — running against his own mother",
+      "summary": "Jair puts his second son, Carlos, in the race against Carlos's mother, Rogéria Nantes, who was seeking a third term on the Rio city council. Carlos wins 16,053 votes to her 5,109 and becomes the youngest city councilor in the city's history. He has held the seat ever since."
+    },
+    "2002-flavio-state-deputy": {
+      "title": "Flávio Bolsonaro elected state deputy in Rio de Janeiro",
+      "summary": "Jair's eldest son, Flávio, is elected to the Rio de Janeiro state legislature (ALERJ), where he would serve four consecutive terms until 2019."
+    },
+    "2014-eduardo-federal-deputy": {
+      "title": "Eduardo Bolsonaro elected federal deputy for São Paulo",
+      "summary": "Jair's third son, Eduardo, a federal police clerk, is elected to the Chamber of Deputies with 82,224 votes. In 2018 he is re-elected with 1,843,735 votes, the highest total ever recorded for a federal deputy in Brazil at the time."
+    },
+    "2016-impeachment-ustra-vote": {
+      "title": "Bolsonaro dedicates impeachment vote to a dictatorship-era torturer",
+      "summary": "During the Chamber vote to impeach President Dilma Rousseff, Jair dedicates his vote to “the memory of Colonel Carlos Alberto Brilhante Ustra — the terror of Dilma Rousseff.” Ustra headed the São Paulo DOI-CODI, a military intelligence unit where political prisoners were tortured in the 1970s; Rousseff herself was imprisoned and tortured during that period.",
+      "context": "Brazil was ruled by a military dictatorship from 1964 to 1985."
+    },
+    "2018-campaign-stabbing": {
+      "title": "Bolsonaro stabbed at a campaign rally",
+      "summary": "Jair is stabbed in the abdomen during a rally in Juiz de Fora, Minas Gerais. The attacker was later found to be mentally ill and ordered held in a psychiatric facility. Bolsonaro spends about three weeks of the campaign in hospital."
+    },
+    "2018-flavio-senate": {
+      "title": "Flávio Bolsonaro elected senator",
+      "summary": "Flávio wins one of Rio de Janeiro's two Senate seats with about 4.38 million votes, in the same election that takes his father to the presidency."
+    },
+    "2018-jair-elected-president": {
+      "title": "Jair Bolsonaro elected president of Brazil",
+      "summary": "Bolsonaro defeats Fernando Haddad (Workers' Party) in the runoff with about 55% of valid votes. Haddad had replaced Lula on the ticket after Lula, then imprisoned, was barred from running."
+    },
+    "2018-coaf-queiroz-report": {
+      "title": "Financial report flags Flávio's former aide: the “rachadinha” case begins",
+      "summary": "A report by COAF, Brazil's financial intelligence unit, flags about 1.2 million reais in atypical transactions in the account of Fabrício Queiroz, Flávio's former aide and driver at the Rio legislature. Deposits coincided with staff paydays, raising suspicion of a salary-kickback scheme. Flávio denies wrongdoing.",
+      "context": "“Rachadinha” (roughly, “little split”) is Brazilian slang for forcing staff to hand back part of their public salaries to the politician who hired them."
+    },
+    "2019-jair-inauguration": {
+      "title": "Bolsonaro takes office as president",
+      "summary": "Jair Bolsonaro is sworn in as president of Brazil in Brasília. US Secretary of State Mike Pompeo attends, and President Trump praises his “great inauguration speech.”"
+    },
+    "2020-queiroz-arrested": {
+      "title": "Fabrício Queiroz arrested at a Bolsonaro family lawyer's property",
+      "summary": "Police arrest Queiroz in Atibaia, São Paulo state, at a property belonging to Frederick Wassef, a lawyer for both Jair and Flávio Bolsonaro, under a warrant from the “rachadinha” investigation. Wassef denies having sheltered him."
+    },
+    "2020-flavio-charged": {
+      "title": "Prosecutors charge Flávio in the “rachadinha” case",
+      "summary": "Rio de Janeiro state prosecutors accuse Flávio and 16 others, including Queiroz, of embezzlement, money laundering and criminal organization over a salary-skimming scheme in his former state legislature office between 2007 and 2018. Flávio calls the charges unfounded."
+    },
+    "2021-stj-annuls-evidence": {
+      "title": "Superior court annuls the case against Flávio",
+      "summary": "Brazil's Superior Court of Justice (STJ) votes 4–1 to annul the lower-court rulings in the “rachadinha” case, finding the trial judge lacked jurisdiction over Flávio. In practice, the investigation goes back to square one. Earlier that year the court had already annulled the breaking of bank secrecy in the case."
+    },
+    "2022-jair-loses-election": {
+      "title": "Bolsonaro loses re-election to Lula",
+      "summary": "Luiz Inácio Lula da Silva defeats Bolsonaro in the runoff, 50.9% to 49.1% — the tightest election since Brazil's return to democracy, and the first time since then that a sitting president failed to win re-election. Bolsonaro does not call Lula to concede."
+    },
+    "2022-jair-leaves-for-florida": {
+      "title": "Bolsonaro leaves for Florida before the end of his term",
+      "summary": "Two days before Lula's inauguration, Bolsonaro flies to Orlando, Florida, avoiding the traditional handover of the presidential sash. His presidential immunity was set to expire when Lula took office."
+    },
+    "2023-january-8-attacks": {
+      "title": "January 8: Bolsonaro supporters storm Brazil's seats of power",
+      "summary": "A week after Lula's inauguration, thousands of Bolsonaro supporters who rejected the election result break into and vandalize the Congress, the Supreme Court and the presidential palace in Brasília. Some call for a military intervention to return Bolsonaro to power.",
+      "context": "The attacks drew comparisons with the January 6, 2021 assault on the US Capitol."
+    },
+    "2023-michelle-pl-mulher": {
+      "title": "Michelle Bolsonaro takes over the Liberal Party's women's wing",
+      "summary": "The former first lady becomes national president of PL Mulher, the women's organization of the Liberal Party (PL), Jair's party — her political debut."
+    },
+    "2023-tse-ineligible": {
+      "title": "Electoral court bars Bolsonaro from running until 2030",
+      "summary": "Brazil's Superior Electoral Court (TSE) rules 5–2 that Bolsonaro abused his power when, in July 2022, he used the presidential palace and state TV to tell foreign ambassadors, without evidence, that the voting system was rigged. He is barred from public office for eight years."
+    },
+    "2024-tempus-veritatis": {
+      "title": "Federal Police raid: Bolsonaro must surrender his passport",
+      "summary": "In Operation Tempus Veritatis, investigating an alleged plot to keep Bolsonaro in power after his defeat, police carry out 33 search warrants and four arrest warrants. The Supreme Court orders Bolsonaro to hand over his passport and bans him from leaving the country."
+    },
+    "2024-renan-city-council": {
+      "title": "Jair Renan Bolsonaro elected city councilor in Santa Catarina",
+      "summary": "Jair's fourth son wins a city council seat in Balneário Camboriú, Santa Catarina, as the most-voted candidate — his first elected office. All four of Jair's sons have now held elected office. The same day, Carlos is re-elected in Rio with a record 130,480 votes."
+    },
+    "2024-federal-police-coup-report": {
+      "title": "Federal Police indict Bolsonaro over alleged coup plot",
+      "summary": "Federal Police indict Bolsonaro and 36 others for allegedly plotting a coup to overturn the 2022 election, and say he had “full knowledge” of a plan to assassinate Lula. According to a court order, Vice President Geraldo Alckmin and Supreme Court Justice Alexandre de Moraes were also targets. Bolsonaro denies the allegations."
+    },
+    "2025-pgr-charges-jair": {
+      "title": "Prosecutor-General formally charges Bolsonaro",
+      "summary": "Prosecutor-General Paulo Gonet charges Bolsonaro and 33 others before the Supreme Court with attempting a coup and taking part in an armed criminal organization, among other crimes. The charges describe a plan that included poisoning Lula and killing Justice Moraes. “The plan was conceived and taken to the knowledge of the president, and he agreed to it,” Gonet wrote."
+    },
+    "2025-eduardo-moves-to-us": {
+      "title": "Eduardo Bolsonaro takes leave and stays in the United States",
+      "summary": "Eduardo, in the US since late February, announces he is taking leave from his congressional seat to remain there and build international support against what he calls persecution of his family. He lobbies the Trump administration for sanctions against Brazilian officials."
+    },
+    "2025-trump-tariffs": {
+      "title": "Trump announces 50% tariffs on Brazil, citing Bolsonaro",
+      "summary": "In a letter to Lula posted on social media, President Trump announces a 50% tariff on Brazilian imports from August 1, writing that Bolsonaro's trial “should not be taking place” and is “a Witch Hunt that should end IMMEDIATELY!” Lula replies: “We don't want an emperor.”",
+      "context": "The United States ran a trade surplus with Brazil in 2024."
+    },
+    "2025-magnitsky-sanctions-moraes": {
+      "title": "US sanctions the Supreme Court justice overseeing Bolsonaro's case",
+      "summary": "The US Treasury sanctions Justice Alexandre de Moraes under the Global Magnitsky Act, a law designed for human rights abusers and corrupt officials, citing “politicized prosecutions — including against former President Jair Bolsonaro.” The State Department had already revoked his US visa. Eduardo had campaigned for the sanctions."
+    },
+    "2025-jair-house-arrest": {
+      "title": "Bolsonaro placed under house arrest",
+      "summary": "Justice Moraes orders house arrest after finding that Bolsonaro broke a ban on using social media by having content posted on the accounts of his three lawmaker sons — Flávio, Eduardo and Carlos — including support for foreign intervention in Brazil's judiciary."
+    },
+    "2025-jair-convicted": {
+      "title": "Supreme Court convicts Bolsonaro of plotting a coup",
+      "summary": "A panel of Brazil's Supreme Court votes 4–1 to convict Bolsonaro of attempting a coup after the 2022 election and leading an armed criminal organization, sentencing him to 27 years and 3 months in prison. He becomes the first former president in Brazil's history convicted of attacking democracy. US Secretary of State Marco Rubio calls the trial a “witch hunt.”"
+    },
+    "2025-eduardo-charged-coercion": {
+      "title": "Eduardo Bolsonaro charged with coercion",
+      "summary": "The Prosecutor-General charges Eduardo with coercion, alleging he threatened Supreme Court justices with US sanctions that would “ruin their civilian lives” if his father's trial did not end the way he wanted. Eduardo calls the charge “bogus.”"
+    },
+    "2025-jair-taken-into-custody": {
+      "title": "Bolsonaro taken into custody after damaging his ankle monitor",
+      "summary": "Federal Police take Bolsonaro into custody, citing a flight risk ahead of a supporters' vigil outside his home. Officers had found his electronic ankle monitor with burn marks; a court video shows him admitting he used a soldering iron on it. He tells a judge that medication made him paranoid."
+    },
+    "2025-jair-begins-sentence": {
+      "title": "Bolsonaro begins serving his 27-year sentence",
+      "summary": "The Supreme Court declares the conviction final and orders Bolsonaro to begin serving his sentence in a room at Federal Police headquarters in Brasília."
+    },
+    "2025-flavio-presidential-bid": {
+      "title": "Flávio Bolsonaro launched as presidential candidate",
+      "summary": "With his father barred from running and in prison, Flávio announces he will run for president in 2026, with Jair's endorsement."
+    },
+    "2025-eduardo-loses-seat": {
+      "title": "Eduardo Bolsonaro loses his seat in Congress",
+      "summary": "The Chamber of Deputies' governing board strips Eduardo of his seat for missing more than a third of the year's sessions while living in the United States. His leave had expired in July."
+    },
+    "2026-eduardo-convicted": {
+      "title": "Eduardo Bolsonaro convicted of coercion in absentia",
+      "summary": "A Supreme Court panel unanimously convicts Eduardo of coercion for urging US sanctions against Brazil to pressure the justices in his father's trial, sentencing him to four years and two months. The conviction makes him ineligible for public office. He has lived in Texas since February 2025; his lawyers say the evidence was insufficient."
+    },
+    "2026-flavio-corruption-probe": {
+      "title": "Flávio under Supreme Court investigation over 61 million reais from a banker",
+      "summary": "Unsealed court documents show the Supreme Court opened an investigation into Flávio over 61 million reais (about US$12 million) received from Daniel Vorcaro, former head of the failed Banco Master, to produce “Dark Horse,” an unreleased film about Jair Bolsonaro. Investigators are looking at possible corruption, money laundering and tax evasion. Flávio says the money was legal private sponsorship."
+    },
+    "2026-first-round": {
+      "title": "Flávio finishes first in the presidential first round",
+      "summary": "Flávio wins about 47% of valid votes against about 45% for President Lula, defying polls that had Lula slightly ahead. With no candidate above 50%, the two go to a runoff on October 25."
+    },
+    "2026-runoff-lula-wins": {
+      "title": "Lula defeats Flávio Bolsonaro in the runoff",
+      "summary": "Lula wins a fourth term with 51.79% of valid votes to Flávio's 48.21%, a margin of about 4.4 million votes — the first time the first-round leader lost a Brazilian presidential runoff. Flávio says he will seek to annul the result; his party accepts it the next day. President Trump says the vote “looked like another rigged election,” without evidence."
+    },
+    "2026-flavio-passport-order": {
+      "title": "Supreme Court orders Flávio to surrender his passports",
+      "summary": "The day after the election, the Supreme Court orders Flávio to hand over his passports as part of a money-laundering investigation. Flávio says he has “never thought about leaving the country” and will stay to lead the opposition."
+    },
+    "2026-flavio-flees-to-us": {
+      "title": "Flávio Bolsonaro flees to the United States",
+      "summary": "Without surrendering his passports, Flávio crosses into Argentina with his wife and daughters, flies by private jet via Ecuador, and lands at Miami-Opa Locka Executive Airport. The State Department says it will grant the family visas, and Trump says he approves. Flávio says he will lead Brazil's opposition from the US. Lula calls the departure shameful: “anyone who sneaks out of their country must have something to hide.”",
+      "context": "Weeks earlier, his brother Eduardo — already living in the US — had said on a podcast that Flávio should leave Brazil if he lost."
+    }
+  }
+}

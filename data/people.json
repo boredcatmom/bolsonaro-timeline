@@ -1,0 +1,10 @@
+{
+  "people": [
+    { "id": "jair", "name": "Jair Bolsonaro", "color": "#2563eb" },
+    { "id": "flavio", "name": "Flávio Bolsonaro", "color": "#16a34a" },
+    { "id": "eduardo", "name": "Eduardo Bolsonaro", "color": "#d97706" },
+    { "id": "carlos", "name": "Carlos Bolsonaro", "color": "#9333ea" },
+    { "id": "renan", "name": "Jair Renan Bolsonaro", "color": "#0891b2" },
+    { "id": "michelle", "name": "Michelle Bolsonaro", "color": "#db2777" }
+  ]
+}

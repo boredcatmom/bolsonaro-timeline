@@ -1,0 +1,202 @@
+{
+  "ui": {
+    "title": "Linha do Tempo da Família Bolsonaro",
+    "subtitle": "Quatro décadas de uma família na política brasileira, evento por evento, com fontes.",
+    "language": "Idioma",
+    "skipToTimeline": "Pular para a linha do tempo",
+    "notice": "Cada evento traz links para as reportagens em que se baseia. Encontrou um erro ou uma fonte melhor? Abra uma issue ou pull request no GitHub.",
+    "filters": "Filtros",
+    "searchPlaceholder": "Buscar eventos…",
+    "filterPeople": "Pessoas",
+    "filterCategories": "Categorias",
+    "clearFilters": "Limpar filtros",
+    "resultCount": "Mostrando {shown} de {total} eventos",
+    "noResults": "Nenhum evento corresponde a esses filtros.",
+    "sources": "Fontes",
+    "sourcePending": "Fonte pendente",
+    "context": "Contexto",
+    "copyLink": "Copiar link",
+    "linkCopied": "Link copiado!",
+    "footer": "Projeto de código aberto. Código sob MIT, conteúdo sob CC BY-SA 4.0. Todo evento deve citar ao menos uma fonte pública.",
+    "contribute": "Contribua no GitHub"
+  },
+  "categories": {
+    "office": "Eleições e cargos",
+    "justice": "Justiça",
+    "investigation": "Investigações",
+    "foreign": "Estados Unidos e exterior",
+    "statements": "Declarações",
+    "context": "Contexto"
+  },
+  "people": {
+    "jair": { "role": "Ex-presidente do Brasil (2019–2022), cumprindo pena de 27 anos por tentativa de golpe" },
+    "flavio": { "role": "Senador pelo Rio de Janeiro; candidato derrotado à Presidência em 2026" },
+    "eduardo": { "role": "Ex-deputado federal por São Paulo; vive nos Estados Unidos" },
+    "carlos": { "role": "Vereador do Rio de Janeiro" },
+    "renan": { "role": "Vereador de Balneário Camboriú" },
+    "michelle": { "role": "Ex-primeira-dama" }
+  },
+  "events": {
+    "1988-jair-city-council": {
+      "title": "Jair Bolsonaro é eleito vereador do Rio de Janeiro",
+      "summary": "Capitão reformado do Exército, Jair Bolsonaro conquista seu primeiro cargo eletivo como vereador no Rio de Janeiro, pelo PDC."
+    },
+    "1990-jair-federal-deputy": {
+      "title": "Jair Bolsonaro é eleito deputado federal",
+      "summary": "Bolsonaro é eleito para a Câmara dos Deputados pelo Rio de Janeiro e deixa a Câmara Municipal. Ocuparia a cadeira de 1991 a 2018, trocando de partido várias vezes."
+    },
+    "2000-carlos-city-council": {
+      "title": "Carlos Bolsonaro é eleito vereador aos 17 anos — contra a própria mãe",
+      "summary": "Jair lança o segundo filho, Carlos, contra a mãe dele, Rogéria Nantes, que buscava o terceiro mandato na Câmara do Rio. Carlos tem 16.053 votos contra 5.109 dela e se torna o vereador mais jovem da história da cidade. Ocupa a cadeira desde então."
+    },
+    "2002-flavio-state-deputy": {
+      "title": "Flávio Bolsonaro é eleito deputado estadual no Rio de Janeiro",
+      "summary": "Filho mais velho de Jair, Flávio é eleito para a Assembleia Legislativa do Rio de Janeiro (Alerj), onde cumpriria quatro mandatos seguidos até 2019."
+    },
+    "2014-eduardo-federal-deputy": {
+      "title": "Eduardo Bolsonaro é eleito deputado federal por São Paulo",
+      "summary": "Terceiro filho de Jair, Eduardo, escrivão da Polícia Federal, é eleito para a Câmara com 82.224 votos. Em 2018 é reeleito com 1.843.735 votos, a maior votação para deputado federal já registrada no país até então."
+    },
+    "2016-impeachment-ustra-vote": {
+      "title": "Bolsonaro dedica voto no impeachment a torturador da ditadura",
+      "summary": "Na votação do impeachment de Dilma Rousseff, Jair dedica seu voto “à memória do coronel Carlos Alberto Brilhante Ustra, o pavor de Dilma Rousseff”. Ustra chefiou o DOI-Codi de São Paulo, unidade onde presos políticos foram torturados nos anos 1970; a própria Dilma foi presa e torturada nesse período.",
+      "context": "O Brasil viveu sob ditadura militar de 1964 a 1985."
+    },
+    "2018-campaign-stabbing": {
+      "title": "Bolsonaro é esfaqueado durante ato de campanha",
+      "summary": "Jair é esfaqueado no abdômen durante um ato em Juiz de Fora (MG). O agressor foi depois considerado inimputável por doença mental e internado. Bolsonaro passa cerca de três semanas da campanha no hospital."
+    },
+    "2018-flavio-senate": {
+      "title": "Flávio Bolsonaro é eleito senador",
+      "summary": "Flávio conquista uma das duas vagas do Rio de Janeiro no Senado, com cerca de 4,38 milhões de votos, na mesma eleição que leva o pai à Presidência."
+    },
+    "2018-jair-elected-president": {
+      "title": "Jair Bolsonaro é eleito presidente do Brasil",
+      "summary": "Bolsonaro derrota Fernando Haddad (PT) no segundo turno com cerca de 55% dos votos válidos. Haddad substituiu Lula, que estava preso e foi declarado inelegível."
+    },
+    "2018-coaf-queiroz-report": {
+      "title": "Relatório do Coaf aponta ex-assessor de Flávio: começa o caso das “rachadinhas”",
+      "summary": "Um relatório do Coaf aponta cerca de R$ 1,2 milhão em movimentações atípicas na conta de Fabrício Queiroz, ex-assessor e motorista de Flávio na Alerj. Os depósitos coincidiam com as datas de pagamento dos servidores, levantando suspeita de devolução de salários. Flávio nega irregularidades.",
+      "context": "“Rachadinha” é a prática de exigir que servidores devolvam parte do salário ao político que os nomeou."
+    },
+    "2019-jair-inauguration": {
+      "title": "Bolsonaro toma posse como presidente",
+      "summary": "Jair Bolsonaro toma posse como presidente do Brasil em Brasília. O secretário de Estado dos EUA, Mike Pompeo, comparece, e Trump elogia o discurso de posse nas redes sociais."
+    },
+    "2020-queiroz-arrested": {
+      "title": "Fabrício Queiroz é preso em imóvel de advogado da família Bolsonaro",
+      "summary": "A polícia prende Queiroz em Atibaia (SP), em um imóvel de Frederick Wassef, advogado de Jair e de Flávio Bolsonaro, por mandado do caso das “rachadinhas”. Wassef nega tê-lo abrigado."
+    },
+    "2020-flavio-charged": {
+      "title": "Ministério Público denuncia Flávio no caso das “rachadinhas”",
+      "summary": "O Ministério Público do Rio acusa Flávio e outras 16 pessoas, incluindo Queiroz, de peculato, lavagem de dinheiro e organização criminosa por um esquema de desvio de salários em seu antigo gabinete na Alerj entre 2007 e 2018. Flávio diz que as acusações são infundadas."
+    },
+    "2021-stj-annuls-evidence": {
+      "title": "STJ anula o caso contra Flávio",
+      "summary": "A Quinta Turma do STJ decide, por 4 a 1, anular as decisões de primeira instância no caso das “rachadinhas”, por entender que o juiz não tinha competência para julgar Flávio. Na prática, a investigação volta à estaca zero. No início do ano, o tribunal já havia anulado as quebras de sigilo bancário do caso."
+    },
+    "2022-jair-loses-election": {
+      "title": "Bolsonaro perde a reeleição para Lula",
+      "summary": "Lula derrota Bolsonaro no segundo turno por 50,9% a 49,1% — a eleição mais apertada desde a redemocratização e a primeira vez desde então que um presidente não se reelege. Bolsonaro não telefona para Lula para reconhecer a derrota."
+    },
+    "2022-jair-leaves-for-florida": {
+      "title": "Bolsonaro viaja para a Flórida antes do fim do mandato",
+      "summary": "Dois dias antes da posse de Lula, Bolsonaro voa para Orlando, na Flórida, evitando a tradicional passagem da faixa presidencial. Sua imunidade presidencial terminaria com a posse de Lula."
+    },
+    "2023-january-8-attacks": {
+      "title": "8 de janeiro: apoiadores de Bolsonaro invadem as sedes dos Três Poderes",
+      "summary": "Uma semana após a posse de Lula, milhares de apoiadores de Bolsonaro que não aceitavam o resultado da eleição invadem e depredam o Congresso, o STF e o Palácio do Planalto, em Brasília. Parte deles pede intervenção militar para devolver Bolsonaro ao poder.",
+      "context": "Os ataques foram comparados à invasão do Capitólio dos EUA em 6 de janeiro de 2021."
+    },
+    "2023-michelle-pl-mulher": {
+      "title": "Michelle Bolsonaro assume o PL Mulher",
+      "summary": "A ex-primeira-dama se torna presidente nacional do PL Mulher, braço feminino do Partido Liberal, partido de Jair — sua estreia na política."
+    },
+    "2023-tse-ineligible": {
+      "title": "TSE torna Bolsonaro inelegível até 2030",
+      "summary": "O Tribunal Superior Eleitoral decide, por 5 a 2, que Bolsonaro abusou do poder quando, em julho de 2022, usou o Palácio da Alvorada e a TV pública para dizer a embaixadores estrangeiros, sem provas, que as urnas eram fraudadas. Ele fica inelegível por oito anos."
+    },
+    "2024-tempus-veritatis": {
+      "title": "Operação da PF: Bolsonaro tem de entregar o passaporte",
+      "summary": "Na Operação Tempus Veritatis, que investiga uma suposta trama para manter Bolsonaro no poder, a PF cumpre 33 mandados de busca e quatro de prisão. O STF determina a entrega do passaporte de Bolsonaro e o proíbe de deixar o país."
+    },
+    "2024-renan-city-council": {
+      "title": "Jair Renan Bolsonaro é eleito vereador em Santa Catarina",
+      "summary": "O quarto filho de Jair é o vereador mais votado de Balneário Camboriú (SC), em seu primeiro cargo eletivo. Com isso, os quatro filhos homens de Jair já ocuparam cargos eletivos. No mesmo dia, Carlos é reeleito no Rio com 130.480 votos, um recorde."
+    },
+    "2024-federal-police-coup-report": {
+      "title": "PF indicia Bolsonaro por suposta trama golpista",
+      "summary": "A Polícia Federal indicia Bolsonaro e outras 36 pessoas por supostamente planejar um golpe para reverter a eleição de 2022 e afirma que ele tinha pleno conhecimento de um plano para assassinar Lula. Segundo decisão judicial, o vice-presidente Geraldo Alckmin e o ministro Alexandre de Moraes também eram alvos. Bolsonaro nega."
+    },
+    "2025-pgr-charges-jair": {
+      "title": "PGR denuncia Bolsonaro",
+      "summary": "O procurador-geral Paulo Gonet denuncia Bolsonaro e outras 33 pessoas ao STF por tentativa de golpe e organização criminosa armada, entre outros crimes. A denúncia descreve um plano que incluía envenenar Lula e matar o ministro Moraes. Segundo Gonet, o plano foi levado ao conhecimento de Bolsonaro, que concordou com ele."
+    },
+    "2025-eduardo-moves-to-us": {
+      "title": "Eduardo Bolsonaro se licencia e fica nos Estados Unidos",
+      "summary": "Nos EUA desde o fim de fevereiro, Eduardo anuncia licença do mandato para permanecer no país e buscar apoio internacional contra o que chama de perseguição à família. Ele articula com o governo Trump sanções contra autoridades brasileiras."
+    },
+    "2025-trump-tariffs": {
+      "title": "Trump anuncia tarifa de 50% sobre o Brasil e cita Bolsonaro",
+      "summary": "Em carta a Lula publicada nas redes sociais, Trump anuncia tarifa de 50% sobre importações brasileiras a partir de 1º de agosto e escreve que o julgamento de Bolsonaro não deveria estar acontecendo e é uma “caça às bruxas”. Lula responde que o Brasil não quer um imperador.",
+      "context": "Os Estados Unidos tiveram superávit comercial com o Brasil em 2024."
+    },
+    "2025-magnitsky-sanctions-moraes": {
+      "title": "EUA sancionam o ministro do STF relator do caso Bolsonaro",
+      "summary": "O Tesouro dos EUA sanciona o ministro Alexandre de Moraes com base na Lei Global Magnitsky, criada para punir violadores de direitos humanos e corruptos, citando processos politizados, inclusive contra o ex-presidente Jair Bolsonaro. O Departamento de Estado já havia revogado o visto dele. Eduardo fez campanha pelas sanções."
+    },
+    "2025-jair-house-arrest": {
+      "title": "Bolsonaro é colocado em prisão domiciliar",
+      "summary": "O ministro Moraes decreta prisão domiciliar ao concluir que Bolsonaro descumpriu a proibição de usar redes sociais, ao ter conteúdo publicado nas contas dos três filhos parlamentares — Flávio, Eduardo e Carlos —, incluindo apoio a intervenção estrangeira no Judiciário brasileiro."
+    },
+    "2025-jair-convicted": {
+      "title": "STF condena Bolsonaro por tentativa de golpe",
+      "summary": "A Primeira Turma do STF condena Bolsonaro, por 4 a 1, por tentativa de golpe após a eleição de 2022 e liderança de organização criminosa armada, com pena de 27 anos e 3 meses. Ele é o primeiro ex-presidente da história do país condenado por atentar contra a democracia. O secretário de Estado dos EUA, Marco Rubio, chama o julgamento de “caça às bruxas”."
+    },
+    "2025-eduardo-charged-coercion": {
+      "title": "Eduardo Bolsonaro é denunciado por coação",
+      "summary": "A PGR denuncia Eduardo por coação no curso do processo, acusando-o de ameaçar ministros do STF com sanções dos EUA que arruinariam suas vidas caso o julgamento do pai não terminasse como ele queria. Eduardo diz que a acusação é absurda."
+    },
+    "2025-jair-taken-into-custody": {
+      "title": "Bolsonaro é preso após danificar a tornozeleira",
+      "summary": "A Polícia Federal prende Bolsonaro, citando risco de fuga às vésperas de uma vigília de apoiadores em frente à sua casa. Agentes encontraram a tornozeleira eletrônica com marcas de queimadura; um vídeo divulgado pelo STF mostra ele admitindo ter usado um ferro de solda. Ao juiz, ele diz que remédios lhe causaram paranoia."
+    },
+    "2025-jair-begins-sentence": {
+      "title": "Bolsonaro começa a cumprir a pena de 27 anos",
+      "summary": "O STF declara o trânsito em julgado da condenação e determina que Bolsonaro comece a cumprir a pena em uma sala da Superintendência da Polícia Federal em Brasília."
+    },
+    "2025-flavio-presidential-bid": {
+      "title": "Flávio Bolsonaro é lançado como candidato à Presidência",
+      "summary": "Com o pai inelegível e preso, Flávio anuncia que disputará a Presidência em 2026, com o apoio de Jair."
+    },
+    "2025-eduardo-loses-seat": {
+      "title": "Eduardo Bolsonaro perde o mandato",
+      "summary": "A Mesa Diretora da Câmara cassa o mandato de Eduardo por faltar a mais de um terço das sessões do ano enquanto vivia nos Estados Unidos. Sua licença havia terminado em julho."
+    },
+    "2026-eduardo-convicted": {
+      "title": "Eduardo Bolsonaro é condenado à revelia por coação",
+      "summary": "A Primeira Turma do STF condena Eduardo por unanimidade por coação, por ter defendido sanções dos EUA contra o Brasil para pressionar os ministros no julgamento do pai. A pena é de quatro anos e dois meses, e a condenação o torna inelegível. Ele vive no Texas desde fevereiro de 2025; a defesa diz que não havia provas suficientes."
+    },
+    "2026-flavio-corruption-probe": {
+      "title": "Flávio é investigado no STF por R$ 61 milhões de banqueiro",
+      "summary": "Documentos tornados públicos mostram que o STF abriu inquérito contra Flávio por R$ 61 milhões recebidos de Daniel Vorcaro, ex-dono do Banco Master, para produzir “Dark Horse”, filme ainda não lançado sobre Jair Bolsonaro. A investigação apura possível corrupção, lavagem de dinheiro e evasão fiscal. Flávio diz que foi patrocínio privado legal."
+    },
+    "2026-first-round": {
+      "title": "Flávio termina o primeiro turno em primeiro lugar",
+      "summary": "Flávio tem cerca de 47% dos votos válidos contra cerca de 45% do presidente Lula, contrariando as pesquisas, que davam leve vantagem a Lula. Sem maioria absoluta, os dois vão ao segundo turno em 25 de outubro."
+    },
+    "2026-runoff-lula-wins": {
+      "title": "Lula derrota Flávio Bolsonaro no segundo turno",
+      "summary": "Lula conquista o quarto mandato com 51,79% dos votos válidos contra 48,21% de Flávio, uma diferença de cerca de 4,4 milhões de votos — a primeira vez que o líder do primeiro turno perde uma eleição presidencial no segundo. Flávio diz que pedirá a anulação; o PL aceita o resultado no dia seguinte. Trump diz, sem provas, que a eleição pareceu mais uma eleição fraudada."
+    },
+    "2026-flavio-passport-order": {
+      "title": "STF determina que Flávio entregue os passaportes",
+      "summary": "No dia seguinte à eleição, o STF determina que Flávio entregue seus passaportes, no âmbito de uma investigação por lavagem de dinheiro. Flávio diz que nunca pensou em sair do país e que ficará para liderar a oposição."
+    },
+    "2026-flavio-flees-to-us": {
+      "title": "Flávio Bolsonaro foge para os Estados Unidos",
+      "summary": "Sem entregar os passaportes, Flávio entra na Argentina com a esposa e as filhas, voa em jato particular via Equador e pousa no aeroporto executivo de Opa-Locka, em Miami. O Departamento de Estado diz que concederá vistos à família, e Trump diz aprovar. Flávio afirma que liderará a oposição brasileira a partir dos EUA. Lula chama a saída de vergonhosa e diz que quem sai escondido do próprio país tem algo a esconder.",
+      "context": "Semanas antes, o irmão Eduardo — que já vive nos EUA — havia dito em um podcast que Flávio deveria deixar o Brasil se perdesse."
+    }
+  }
+}

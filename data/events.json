@@ -1,0 +1,271 @@
+{
+  "categories": ["office", "justice", "investigation", "foreign", "statements", "context"],
+  "events": [
+    {
+      "id": "1988-jair-city-council", "date": "1988-11-15", "people": ["jair"], "category": "office",
+      "sources": [
+        { "url": "https://www.nsctotal.com.br/noticias/ha-33-anos-na-politica-e-capitao-conheca-a-trajetoria-de-jair-bolsonaro", "outlet": "NSC Total", "title": "Há 33 anos na política e capitão: conheça a trajetória de Jair Bolsonaro", "lang": "pt" },
+        { "url": "https://sbtnews.sbt.com.br/noticia/politica/a-trajetoria-politica-de-jair-bolsonaro-da-ascensao-ao-declinio", "outlet": "SBT News", "title": "A trajetória política de Jair Bolsonaro", "lang": "pt" }
+      ]
+    },
+    {
+      "id": "1990-jair-federal-deputy", "date": "1990-10-03", "people": ["jair"], "category": "office",
+      "sources": [
+        { "url": "https://www.nsctotal.com.br/noticias/ha-33-anos-na-politica-e-capitao-conheca-a-trajetoria-de-jair-bolsonaro", "outlet": "NSC Total", "title": "Há 33 anos na política e capitão: conheça a trajetória de Jair Bolsonaro", "lang": "pt" },
+        { "url": "https://sbtnews.sbt.com.br/noticia/politica/a-trajetoria-politica-de-jair-bolsonaro-da-ascensao-ao-declinio", "outlet": "SBT News", "title": "A trajetória política de Jair Bolsonaro", "lang": "pt" }
+      ]
+    },
+    {
+      "id": "2000-carlos-city-council", "date": "2000-10-01", "people": ["carlos", "jair"], "category": "office",
+      "sources": [
+        { "url": "https://www.folhape.com.br/politica/carlos-bolsonaro-chora-ao-falar-de-disputa-a-vereador-contra-a-propria/393505/", "outlet": "Folha de Pernambuco", "title": "Carlos Bolsonaro chora ao falar de disputa a vereador contra a própria mãe", "lang": "pt" }
+      ]
+    },
+    {
+      "id": "2002-flavio-state-deputy", "date": "2002-10-06", "people": ["flavio"], "category": "office",
+      "sources": [
+        { "url": "https://congressoemfoco.com.br/legislativo/conheca-flavio-o-unico-filho-de-bolsonaro-que-nao-comentou-a-crise-do-psl", "outlet": "Congresso em Foco", "title": "Conheça Flávio, o único filho de Bolsonaro que não comentou a crise do PSL", "lang": "pt" },
+        { "url": "https://movimentoeconomico.com.br/politica/2026/10/26/derrota-pra-lula-encerra-ciclo-de-24-anos-de-mandatos-eletivos-de-flavio-bolsonaro/", "outlet": "Movimento Econômico", "title": "Derrota pra Lula encerra ciclo de 24 anos de mandatos eletivos de Flávio Bolsonaro", "lang": "pt" }
+      ]
+    },
+    {
+      "id": "2014-eduardo-federal-deputy", "date": "2014-10-05", "people": ["eduardo"], "category": "office",
+      "sources": [
+        { "url": "https://www.moneytimes.com.br/eduardo-bolsonaro-e-o-mais-votado-do-brasil-com-184-milhao-de-votos/", "outlet": "Money Times", "title": "Eduardo Bolsonaro é o mais votado do Brasil, com 1,84 milhão de votos", "lang": "pt" }
+      ]
+    },
+    {
+      "id": "2016-impeachment-ustra-vote", "date": "2016-04-17", "people": ["jair"], "category": "statements",
+      "sources": [
+        { "url": "https://tribune.com.pk/story/1088505/entertainment", "outlet": "AFP via The Express Tribune", "title": "Torture-praising politician seizes limelight in Brazil", "lang": "en" },
+        { "url": "https://www.congressoemfoco.com.br/noticia/117872/bolsonaro-a-glauber-relembre-votos-que-marcaram-impeachment-de-dilma", "outlet": "Congresso em Foco", "title": "De Bolsonaro a Glauber: relembre votos que marcaram impeachment de Dilma", "lang": "pt" }
+      ]
+    },
+    {
+      "id": "2018-campaign-stabbing", "date": "2018-09-06", "people": ["jair"], "category": "context",
+      "sources": [
+        { "url": "https://www.wlrn.org/news/2018-09-06/brazilian-candidate-in-serious-condition-after-stabbing", "outlet": "WLRN (NPR)", "title": "Brazilian candidate in serious condition after stabbing", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2018-flavio-senate", "date": "2018-10-07", "people": ["flavio"], "category": "office",
+      "sources": [
+        { "url": "https://movimentoeconomico.com.br/politica/2026/10/26/derrota-pra-lula-encerra-ciclo-de-24-anos-de-mandatos-eletivos-de-flavio-bolsonaro/", "outlet": "Movimento Econômico", "title": "Derrota pra Lula encerra ciclo de 24 anos de mandatos eletivos de Flávio Bolsonaro", "lang": "pt" }
+      ]
+    },
+    {
+      "id": "2018-jair-elected-president", "date": "2018-10-28", "people": ["jair"], "category": "office",
+      "sources": [
+        { "url": "https://www.euronews.com/2018/10/28/brazilian-elections-far-right-bolsonaro-leads-leftist-haddad-in-polls-ahead-of-final-vote", "outlet": "Euronews", "title": "Right-wing Jair Bolsonaro wins Brazil presidential race", "lang": "en" },
+        { "url": "https://www.aljazeera.com/news/2018/10/brazil-elections-leader-jair-bolsonaro-set-win-181028222301084.html", "outlet": "Al Jazeera", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2018-coaf-queiroz-report", "date": "2018-12", "people": ["flavio"], "category": "investigation",
+      "sources": [
+        { "url": "https://www.channelstv.com/2018/12/13/brazils-bolsonaro-under-scrutiny-over-suspect-payments/", "outlet": "AFP via Channels TV", "title": "Brazil's Bolsonaro under scrutiny over suspect payments", "lang": "en" },
+        { "url": "https://www.bnamericas.com/en/news/banking/brazils-bolsonaro-faces-first-potential-scandal", "outlet": "BNamericas", "title": "Brazil's Bolsonaro faces first potential scandal", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2019-jair-inauguration", "date": "2019-01-01", "people": ["jair"], "category": "office",
+      "sources": [
+        { "url": "https://www.kpbs.org/news/2019/01/01/right-wing-populist-jair-bolsonaro-sworn-in-as", "outlet": "NPR via KPBS", "title": "Right-wing populist Jair Bolsonaro sworn in as president of Brazil", "lang": "en" },
+        { "url": "https://www.cbsnews.com/news/jair-bolsonaro-inaugural-address-brazil-new-president-2019-01-01", "outlet": "CBS News", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2020-queiroz-arrested", "date": "2020-06-18", "people": ["flavio"], "category": "investigation",
+      "sources": [
+        { "url": "https://www.irishtimes.com/news/world/jair-bolsonaro-under-pressure-as-son-s-former-aide-arrested-1.4283610", "outlet": "The Irish Times", "title": "Jair Bolsonaro under pressure as son's former aide arrested", "lang": "en" },
+        { "url": "https://www.poder360.com.br/justica/mensagens-apontam-que-queiroz-era-monitorado-por-wassef-diz-mp-rj/", "outlet": "Poder360", "title": "Mensagens apontam que Queiroz era monitorado por Wassef, diz MP-RJ", "lang": "pt" }
+      ]
+    },
+    {
+      "id": "2020-flavio-charged", "date": "2020-11", "people": ["flavio"], "category": "justice",
+      "sources": [
+        { "url": "https://www.voanews.com/a/americas_brazil-presidents-son-charged-corruption/6197994.html", "outlet": "VOA", "title": "Brazil president's son charged with corruption", "lang": "en" },
+        { "url": "https://www.batimes.com.ar/news/latin-america/bolsonaros-son-charged-by-prosecutors-in-money-laundering-probe.phtml", "outlet": "Buenos Aires Times (Bloomberg)", "title": "Bolsonaro's son charged by prosecutors in money-laundering probe", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2021-stj-annuls-evidence", "date": "2021-11-09", "people": ["flavio"], "category": "justice",
+      "sources": [
+        { "url": "https://www.cnnbrasil.com.br/politica/stj-anula-decisoes-contra-flavio-bolsonaro-no-caso-das-rachadinhas/", "outlet": "CNN Brasil", "title": "STJ anula decisões contra Flávio Bolsonaro no caso das \"rachadinhas\"", "lang": "pt" },
+        { "url": "https://www.brasildefato.com.br/2021/11/10/stj-anula-todas-as-decisoes-da-justica-do-rj-contra-flavio-bolsonaro/", "outlet": "Brasil de Fato", "lang": "pt" }
+      ]
+    },
+    {
+      "id": "2022-jair-loses-election", "date": "2022-10-30", "people": ["jair"], "category": "office",
+      "sources": [
+        { "url": "https://csmonitor.com/World/Americas/2022/1030/Lula-defeats-Bolsonaro-in-Brazil-s-tightest-elections-in-decades", "outlet": "The Christian Science Monitor (AP)", "title": "Lula defeats Bolsonaro in Brazil's tightest elections in decades", "lang": "en" },
+        { "url": "https://www.bloomberg.com/news/articles/2022-10-30/lula-wins-brazil-s-presidency-completing-comeback-for-leftist", "outlet": "Bloomberg", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2022-jair-leaves-for-florida", "date": "2022-12-30", "people": ["jair"], "category": "foreign",
+      "sources": [
+        { "url": "https://www.aljazeera.com/news/2022/12/30/jair-bolsonaro-leaves-brazil-for-florida-avoiding-lula-handover", "outlet": "Al Jazeera", "title": "Jair Bolsonaro leaves Brazil for Florida, avoiding Lula handover", "lang": "en" },
+        { "url": "https://voanews.com/a/bolsonaro-departs-brazil-for-florida-avoiding-lula-handover-/6898259.html", "outlet": "VOA", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2023-january-8-attacks", "date": "2023-01-08", "people": [], "category": "context",
+      "sources": [
+        { "url": "https://www.nbcnewyork.com/news/national-international/pro-bolsonaro-protesters-storm-brazils-congress-in-capital/", "outlet": "AP via NBC New York", "title": "Pro-Bolsonaro protesters storm Brazil's Congress in capital", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2023-michelle-pl-mulher", "date": "2023-03-21", "people": ["michelle"], "category": "office",
+      "sources": [
+        { "url": "https://www.moneytimes.com.br/michelle-bolsonaro-assume-presidencia-do-pl-mulher/", "outlet": "Money Times", "title": "Michelle Bolsonaro assume presidência do PL Mulher", "lang": "pt" }
+      ]
+    },
+    {
+      "id": "2023-tse-ineligible", "date": "2023-06-30", "people": ["jair"], "category": "justice",
+      "sources": [
+        { "url": "https://www.cbc.ca/1.6894057", "outlet": "CBC (AP)", "title": "Brazilian judges vote to bar Jair Bolsonaro from seeking re-election until 2030", "lang": "en" },
+        { "url": "https://www.theglobeandmail.com/world/article-brazils-jair-bolsonaro-barred-from-office-until-2030", "outlet": "The Globe and Mail", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2024-tempus-veritatis", "date": "2024-02-08", "people": ["jair"], "category": "investigation",
+      "sources": [
+        { "url": "https://whdh.com/news/brazils-former-president-bolsonaro-under-investigation-in-probe-into-attempted-coup/", "outlet": "AP via WHDH", "title": "Brazil's former president Bolsonaro under investigation in probe into attempted coup", "lang": "en" },
+        { "url": "https://www.jurist.org/news/2024/02/brazil-january-8-investigation-accuses-bolsonaro-of-participating-in-alleged-coup/", "outlet": "JURIST", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2024-renan-city-council", "date": "2024-10-06", "people": ["renan", "carlos"], "category": "office",
+      "sources": [
+        { "url": "https://www.congressoemfoco.com.br/area/pais/carlos-bolsonaro-e-jair-renan-sao-os-vereadores-mais-votados-no-rio-e-em-balneario-camboriu/", "outlet": "Congresso em Foco", "title": "Carlos Bolsonaro e Jair Renan são os vereadores mais votados no Rio e em Balneário Camboriú", "lang": "pt" }
+      ]
+    },
+    {
+      "id": "2024-federal-police-coup-report", "date": "2024-11-21", "people": ["jair"], "category": "investigation",
+      "sources": [
+        { "url": "https://www.adn.com/nation-world/2024/11/21/brazilian-police-indict-former-president-bolsonaro-and-aides-in-alleged-2022-coup-attempt/", "outlet": "AP via Anchorage Daily News", "title": "Brazilian police indict former president Bolsonaro and aides in alleged 2022 coup attempt", "lang": "en" },
+        { "url": "https://salon.com/2024/11/21/brazilian-police-indict-bolsonaro-and-accomplices-for-2022-coup-attempt-alleged-plot-to-lula", "outlet": "Salon", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2025-pgr-charges-jair", "date": "2025-02-18", "people": ["jair"], "category": "justice",
+      "sources": [
+        { "url": "https://www.bloomberg.com/news/articles/2025-02-18/bolsonaro-charged-with-plotting-coup-after-election-loss-to-lula", "outlet": "Bloomberg", "title": "Bolsonaro charged with coup attempt after his election loss", "lang": "en" },
+        { "url": "https://www.scmp.com/news/world/americas/article/3299240/brazils-bolsonaro-charged-coup-plot-included-plan-poison-lula", "outlet": "South China Morning Post", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2025-eduardo-moves-to-us", "date": "2025-03-18", "people": ["eduardo"], "category": "foreign",
+      "sources": [
+        { "url": "https://www.thestar.com.my/news/world/2025/03/19/bolsonaro-son-leaves-congress-role-in-brazil-to-build-support-in-the-us", "outlet": "Reuters via The Star", "title": "Bolsonaro son leaves Congress role in Brazil to build support in the US", "lang": "en" },
+        { "url": "https://en.mercopress.com/2025/03/20/eduardo-bolsonaro-to-seek-political-asylum-in-the-us", "outlet": "MercoPress", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2025-trump-tariffs", "date": "2025-07-09", "people": ["jair"], "category": "foreign",
+      "sources": [
+        { "url": "https://www.irishtimes.com/world/americas/2025/07/10/trump-pledges-50-tariffs-against-brazil-citing-witch-hunt-against-bolsonaro", "outlet": "The Irish Times", "title": "Trump pledges 50% tariffs against Brazil citing 'witch hunt' against Bolsonaro", "lang": "en" },
+        { "url": "https://www.occrp.org/en/news/trump-threatens-50-tariffs-on-brazil-over-bolsonaro-trial", "outlet": "OCCRP", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2025-magnitsky-sanctions-moraes", "date": "2025-07-30", "people": ["eduardo"], "category": "foreign",
+      "sources": [
+        { "url": "https://www.ajc.com/news/2025/07/us-sanctions-brazils-supreme-court-justice-overseeing-case-against-bolsonaro-2", "outlet": "AP via The Atlanta Journal-Constitution", "title": "US sanctions Brazil's Supreme Court justice overseeing case against Bolsonaro", "lang": "en" },
+        { "url": "https://www.bloomberg.com/news/articles/2025-07-30/us-sanctions-brazil-supreme-court-justice-over-bolsonaro-case", "outlet": "Bloomberg", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2025-jair-house-arrest", "date": "2025-08-04", "people": ["jair", "flavio", "eduardo", "carlos"], "category": "justice",
+      "sources": [
+        { "url": "https://www.aljazeera.com/news/2025/8/4/brazil-supreme-court-justice-orders-house-arrest-of-embattled-bolsonaro", "outlet": "Al Jazeera", "title": "Brazil Supreme Court orders house arrest of former President Bolsonaro", "lang": "en" },
+        { "url": "https://m.washingtontimes.com/news/2025/aug/4/brazils-supreme-court-orders-house-arrest-ex-president-jair-bolsonaro/", "outlet": "AP via The Washington Times", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2025-jair-convicted", "date": "2025-09-11", "people": ["jair"], "category": "justice",
+      "sources": [
+        { "url": "https://www.aljazeera.com/news/2025/9/11/brazils-bolsonaro-found-guilty-of-coup-plot-by-top-court", "outlet": "Al Jazeera", "title": "Brazil Supreme Court sentences Bolsonaro to 27 years over coup plot", "lang": "en" },
+        { "url": "https://www.bloomberg.com/news/articles/2025-09-11/brazil-s-bolsonaro-found-guilty-of-coup-attempt-by-majority-of-top-court-panel", "outlet": "Bloomberg", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2025-eduardo-charged-coercion", "date": "2025-09-22", "people": ["eduardo"], "category": "justice",
+      "sources": [
+        { "url": "https://www.aljazeera.com/news/2025/9/22/brazils-eduardo-bolsonaro-charged-in-case-linked-to-fathers-coup-attempt", "outlet": "Al Jazeera", "title": "Brazil's Eduardo Bolsonaro charged in case linked to father's coup attempt", "lang": "en" },
+        { "url": "https://agenciabrasil.ebc.com.br/en/justica/noticia/2025-09/prosecutor-general-reports-bolsonaros-son-pressuring-us-officials", "outlet": "Agência Brasil", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2025-jair-taken-into-custody", "date": "2025-11-22", "people": ["jair"], "category": "justice",
+      "sources": [
+        { "url": "https://www.thestar.com.my/news/world/2025/11/22/brazil-ex-president-bolsonaro-arrested-by-federal-police-source-says", "outlet": "Reuters via The Star", "title": "Brazil's Bolsonaro detained over flight risk, damaged ankle monitor", "lang": "en" },
+        { "url": "https://www.rnz.co.nz/news/world/579808/former-brazilian-president-jair-bolsonaro-tells-brazil-judge-paranoia-from-meds-made-him-tamper-with-ankle-monitor", "outlet": "RNZ", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2025-jair-begins-sentence", "date": "2025-11-25", "people": ["jair"], "category": "justice",
+      "sources": [
+        { "url": "https://www.nbcnews.com/world/brazil/brazils-former-president-jair-bolsonaro-begins-27-year-prison-sentence-rcna245979", "outlet": "NBC News", "title": "Brazil's former President Jair Bolsonaro begins 27-year prison sentence for coup attempt", "lang": "en" },
+        { "url": "https://www.news4jax.com/news/world/2025/11/25/brazils-former-president-jair-bolsonaro-begins-serving-27-year-prison-sentence/", "outlet": "AP via News4JAX", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2025-flavio-presidential-bid", "date": "2025-12", "people": ["flavio", "jair"], "category": "office",
+      "sources": [
+        { "url": "https://www.aljazeera.com/news/2025/12/6/flavio-bolsonaro-enters-brazils-2026-presidential-race-with-fathers-nod", "outlet": "Al Jazeera", "title": "Flavio Bolsonaro enters Brazil's 2026 presidential race with father's nod", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2025-eduardo-loses-seat", "date": "2025-12-19", "people": ["eduardo"], "category": "office",
+      "sources": [
+        { "url": "https://www.cp24.com/news/world/2025/12/19/brazil-strips-bolsonaros-son-of-congressional-seat/", "outlet": "CP24", "title": "Brazil strips Bolsonaro's son of congressional seat", "lang": "en" },
+        { "url": "https://brasildefato.com.br/2025/12/19/brazils-lower-house-strips-eduardo-bolsonaro-and-alexandre-ramagem-of-their-seats/", "outlet": "Brasil de Fato", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2026-eduardo-convicted", "date": "2026-06-16", "people": ["eduardo"], "category": "justice",
+      "sources": [
+        { "url": "https://www.washingtontimes.com/news/2026/jun/16/brazils-top-court-convicts-son-former-president-bolsonaro-coercion/", "outlet": "AP via The Washington Times", "title": "Brazil's top court convicts son of former president Bolsonaro for coercion", "lang": "en" },
+        { "url": "https://www.news4jax.com/news/world/2026/06/16/brazils-top-court-convicts-son-of-former-president-bolsonaro-for-coercion/", "outlet": "AP via News4JAX", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2026-flavio-corruption-probe", "date": "2026-09-11", "people": ["flavio"], "category": "investigation",
+      "sources": [
+        { "url": "https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election", "outlet": "Al Jazeera", "title": "Flavio Bolsonaro faces corruption probe weeks before Brazil election", "lang": "en" },
+        { "url": "https://www.nbcnews.com/world/brazil/brazils-flavio-bolsonaro-faces-corruption-investigation-weeks-election-rcna597342", "outlet": "NBC News", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2026-first-round", "date": "2026-10-04", "people": ["flavio"], "category": "office",
+      "sources": [
+        { "url": "https://www.aljazeera.com/news/2026/10/5/brazils-presidential-race-three-key-takeaways-from-the-first-round", "outlet": "Al Jazeera", "title": "Brazil's presidential race: Three key takeaways from the first round", "lang": "en" },
+        { "url": "https://en.mercopress.com/2026/10/05/flavio-bolsonaro-edges-lula-in-the-first-round-both-head-to-an-october-25-runoff", "outlet": "MercoPress", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2026-runoff-lula-wins", "date": "2026-10-25", "people": ["flavio", "jair"], "category": "office",
+      "sources": [
+        { "url": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election", "outlet": "NPR", "title": "In stunning victory, Brazil's Lula wins fourth presidential term", "lang": "en" },
+        { "url": "https://www.pbs.org/newshour/world/brazil-votes-in-a-tense-lula-vs-bolsonaro-runoff-with-u-s-influence-over-latin-america-at-stake", "outlet": "PBS NewsHour", "lang": "en" },
+        { "url": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa", "outlet": "Al Jazeera", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2026-flavio-passport-order", "date": "2026-10-26", "people": ["flavio"], "category": "justice",
+      "sources": [
+        { "url": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa", "outlet": "Al Jazeera", "title": "Flavio Bolsonaro flees Brazil after election loss, US says will grant visa", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2026-flavio-flees-to-us", "date": "2026-10-28", "people": ["flavio", "eduardo"], "category": "foreign",
+      "sources": [
+        { "url": "https://www.nbcnews.com/world/brazil/flavio-bolsonaro-arrives-miami-election-defeat-rcna606099", "outlet": "NBC News (Reuters/AP)", "title": "Brazil's Flávio Bolsonaro arrives in Miami after election defeat", "lang": "en" },
+        { "url": "https://www.cnn.com/2026/10/27/americas/flavio-bolsonaro-brazil-passports-latam-intl", "outlet": "CNN", "lang": "en" },
+        { "url": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa", "outlet": "Al Jazeera", "lang": "en" }
+      ]
+    }
+  ]
+}
