@@ -2,6 +2,8 @@
 export const LOCALES = {
   en: 'English',
   'pt-BR': 'Português (Brasil)',
+  es: 'Español',
+  fr: 'Français',
 };
 
 export const DEFAULT_LOCALE = 'en';
@@ -42,7 +44,7 @@ export function detectLocale() {
 
 async function fetchLocale(locale) {
   if (!cache.has(locale)) {
-    cache.set(locale, fetch(`data/locales/${locale}.json`).then((r) => {
+    cache.set(locale, fetch(`data/locales/${locale}.json`, { cache: 'no-cache' }).then((r) => {
       if (!r.ok) throw new Error(`Could not load locale ${locale}`);
       return r.json();
     }));

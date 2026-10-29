@@ -43,8 +43,8 @@ async function setLocale(locale) {
 
 async function init() {
   const [people, events] = await Promise.all([
-    fetch('data/people.json').then((r) => r.json()),
-    fetch('data/events.json').then((r) => r.json()),
+    fetch('data/people.json', { cache: 'no-cache' }).then((r) => r.json()),
+    fetch('data/events.json', { cache: 'no-cache' }).then((r) => r.json()),
   ]);
   state.people = people.people;
   state.categories = events.categories;

@@ -4,7 +4,8 @@ function el(tag, attrs = {}, ...children) {
   const node = document.createElement(tag);
   for (const [k, v] of Object.entries(attrs)) {
     if (v == null || v === false) continue;
-    if (k === 'style') Object.assign(node.style, v);
+    // setProperty, not Object.assign: custom properties like --c are ignored by assignment.
+    if (k === 'style') for (const [p, val] of Object.entries(v)) node.style.setProperty(p, val);
     else if (k.startsWith('on')) node.addEventListener(k.slice(2), v);
     else node.setAttribute(k, v === true ? '' : v);
   }

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- Source for og-image.png (1200x630). Re-export with Inkscape after editing. -->
+  <rect width="1200" height="630" fill="#fafaf9"/>
+  <rect width="1200" height="12" fill="#15803d"/>
+
+  <g transform="translate(80 92) scale(2.6)">
+    <path fill="#ffffff" stroke="#15803d" stroke-width="4" stroke-linejoin="round" d="M32 4 56 12v18c0 15-10 25-24 30C18 55 8 45 8 30V12Z"/>
+    <path stroke="#57534e" stroke-width="3" stroke-linecap="round" d="M24 17v32"/>
+    <path stroke="#57534e" stroke-width="3" stroke-linecap="round" d="M32 21h12M32 33h9M32 45h6"/>
+    <circle cx="24" cy="21" r="4.5" fill="#2563eb"/>
+    <circle cx="24" cy="33" r="4.5" fill="#16a34a"/>
+    <circle cx="24" cy="45" r="4.5" fill="#d97706"/>
+  </g>
+
+  <g font-family="Noto Sans, DejaVu Sans, sans-serif" fill="#1c1917">
+    <text x="280" y="178" font-size="68" font-weight="700">Bolsonaro Family</text>
+    <text x="280" y="256" font-size="68" font-weight="700">Timeline</text>
+    <text x="80" y="356" font-size="31" fill="#57534e">Four decades of a political family in Brazil,</text>
+    <text x="80" y="398" font-size="31" fill="#57534e">event by event — every one linked to its sources.</text>
+  </g>
+
+  <!-- Timeline: x = 80 + (year - 1988) / 38 * 1040 -->
+  <path stroke="#d6d3d1" stroke-width="4" stroke-linecap="round" d="M80 486H1120"/>
+  <g stroke="#fafaf9" stroke-width="4">
+    <circle cx="80" cy="486" r="13" fill="#2563eb"/>
+    <circle cx="408" cy="486" r="13" fill="#9333ea"/>
+    <circle cx="463" cy="486" r="13" fill="#16a34a"/>
+    <circle cx="792" cy="486" r="13" fill="#d97706"/>
+    <circle cx="901" cy="486" r="13" fill="#2563eb"/>
+    <circle cx="1065" cy="486" r="13" fill="#0891b2"/>
+    <circle cx="1120" cy="486" r="13" fill="#db2777"/>
+  </g>
+  <g font-family="Noto Sans, DejaVu Sans, sans-serif" font-size="24" font-weight="600" fill="#57534e" text-anchor="middle">
+    <text x="80" y="534">1988</text>
+    <text x="408" y="534">2000</text>
+    <text x="792" y="534">2014</text>
+    <text x="901" y="534">2018</text>
+    <text x="1120" y="534">2026</text>
+  </g>
+
+  <g font-family="Noto Sans, DejaVu Sans, sans-serif" font-size="22" fill="#57534e">
+    <text x="80" y="596">English · Português · Español · Français</text>
+    <text x="1120" y="596" text-anchor="end" fill="#15803d" font-weight="600">boredcatmom.github.io/bolsonaro-timeline</text>
+  </g>
+</svg>

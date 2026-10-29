@@ -1,0 +1,257 @@
+{
+  "ui": {
+    "title": "Chronologie de la famille Bolsonaro",
+    "subtitle": "Quatre décennies d’une famille politique au Brésil, événement par événement, avec les sources.",
+    "language": "Langue",
+    "skipToTimeline": "Aller à la chronologie",
+    "notice": "Chaque événement renvoie aux articles sur lesquels il s’appuie. Une erreur ou une meilleure source ? Ouvrez une issue ou une pull request sur GitHub.",
+    "filters": "Filtres",
+    "searchPlaceholder": "Rechercher…",
+    "filterPeople": "Personnes",
+    "filterCategories": "Catégories",
+    "clearFilters": "Effacer les filtres",
+    "resultCount": "{shown} événements affichés sur {total}",
+    "noResults": "Aucun événement ne correspond à ces filtres.",
+    "sources": "Sources",
+    "sourcePending": "Source à venir",
+    "context": "Contexte",
+    "copyLink": "Copier le lien",
+    "linkCopied": "Lien copié !",
+    "footer": "Projet open source. Code sous licence MIT, contenu sous CC BY-SA 4.0. Chaque événement doit citer au moins une source publique.",
+    "contribute": "Contribuer sur GitHub"
+  },
+  "categories": {
+    "office": "Élections et mandats",
+    "justice": "Tribunaux",
+    "investigation": "Enquêtes",
+    "foreign": "États-Unis et étranger",
+    "statements": "Déclarations",
+    "context": "Contexte"
+  },
+  "people": {
+    "jair": { "role": "Ancien président du Brésil (2019–2022) ; purge une peine de 27 ans pour tentative de coup d’État" },
+    "flavio": { "role": "Sénateur de Rio de Janeiro ; candidat battu à la présidentielle de 2026" },
+    "eduardo": { "role": "Ancien député fédéral de São Paulo ; vit aux États-Unis" },
+    "carlos": { "role": "Conseiller municipal de Rio de Janeiro" },
+    "renan": { "role": "Conseiller municipal de Balneário Camboriú" },
+    "michelle": { "role": "Ancienne première dame ; sénatrice élue du District fédéral" }
+  },
+  "events": {
+    "1988-jair-city-council": {
+      "title": "Jair Bolsonaro élu conseiller municipal de Rio de Janeiro",
+      "summary": "Capitaine de l’armée à la retraite, Jair Bolsonaro obtient son premier mandat électif comme conseiller municipal de Rio de Janeiro, pour le Parti démocrate-chrétien (PDC)."
+    },
+    "1990-jair-federal-deputy": {
+      "title": "Jair Bolsonaro élu député fédéral",
+      "summary": "Jair Bolsonaro est élu à la Chambre des députés pour l’État de Rio de Janeiro et quitte le conseil municipal. Il conservera ce siège de 1991 à 2018, en changeant plusieurs fois de parti."
+    },
+    "2000-carlos-city-council": {
+      "title": "Carlos Bolsonaro, 17 ans, élu au conseil municipal de Rio contre sa propre mère",
+      "summary": "Jair présente son deuxième fils, Carlos, contre la mère de celui-ci, Rogéria Nantes, qui briguait un troisième mandat au conseil municipal de Rio. Carlos obtient 16 053 voix contre 5 109 pour elle et devient le plus jeune conseiller municipal de l’histoire de la ville. Il occupe ce siège depuis."
+    },
+    "2000-flavio-chamber-post": {
+      "title": "À 19 ans, Flávio occupe un poste à temps plein à la Chambre, à Brasília, tout en étudiant à Rio",
+      "summary": "De décembre 2000 à juin 2002, Flávio occupe un poste politique de 40 heures par semaine au bureau du groupe du PPB, le parti de son père, à la Chambre des députés à Brasília. Selon une enquête de BBC News Brasil publiée en 2019, il suivait à la même période des études de droit en présentiel, avec appel, à l’université Candido Mendes de Rio de Janeiro, et faisait un stage bénévole au Bureau du défenseur public de Rio, à plus de 1 000 km. La Chambre a indiqué à la BBC que le poste ne pouvait être exercé qu’à Brasília. Sa présence était consignée sur une feuille mensuelle, sans pointage quotidien. Le poste ne figure pas dans ses CV publics. Son équipe a refusé de répondre aux questions de la BBC.",
+      "context": "C’était le premier emploi public de Flávio. Le même poste était occupé jusqu’à une semaine plus tôt par Ana Cristina Siqueira Valle, alors épouse de Jair. L’embauche de proches à des postes de confiance n’a été interdite au Brésil qu’en 2008."
+    },
+    "2002-flavio-state-deputy": {
+      "title": "Flávio Bolsonaro élu député de l’État de Rio de Janeiro",
+      "summary": "Flávio, le fils aîné de Jair, est élu à l’Assemblée législative de l’État de Rio de Janeiro (ALERJ), où il effectuera quatre mandats consécutifs jusqu’en 2019."
+    },
+    "2014-eduardo-federal-deputy": {
+      "title": "Eduardo Bolsonaro élu député fédéral de São Paulo",
+      "summary": "Eduardo, troisième fils de Jair et greffier de la police fédérale, est élu à la Chambre des députés avec 82 224 voix. En 2018, il est réélu avec 1 843 735 voix, le score le plus élevé jamais obtenu jusque-là par un député fédéral au Brésil."
+    },
+    "2016-impeachment-ustra-vote": {
+      "title": "Jair Bolsonaro dédie son vote de destitution à un tortionnaire de la dictature",
+      "summary": "Lors du vote de la Chambre sur la destitution de la présidente Dilma Rousseff, Jair dédie son vote à la mémoire du colonel Carlos Alberto Brilhante Ustra, qu’il qualifie de terreur de Dilma Rousseff. Ustra a dirigé le DOI-CODI de São Paulo, une unité du renseignement militaire où des prisonniers politiques ont été torturés dans les années 1970 ; Rousseff elle-même a été emprisonnée et torturée à cette époque.",
+      "context": "Le Brésil a été gouverné par une dictature militaire de 1964 à 1985."
+    },
+    "2018-marielle-franco-killed": {
+      "title": "Assassinat de la conseillère municipale de Rio Marielle Franco",
+      "summary": "Marielle Franco, 38 ans, conseillère municipale de Rio de Janeiro pour le PSOL (gauche) et critique virulente des violences policières dans les favelas, est abattue dans sa voiture au centre de Rio, avec son chauffeur, Anderson Gomes. Une attachée de presse présente dans la voiture survit.",
+      "context": "C’est devenu le meurtre politique le plus retentissant du Brésil. Il figure ici en raison des liens, révélés ensuite, entre des suspects et la famille Bolsonaro. Aucun membre de la famille n’a été mis en cause dans l’affaire."
+    },
+    "2018-campaign-stabbing": {
+      "title": "Jair Bolsonaro poignardé lors d’un meeting de campagne",
+      "summary": "Jair est poignardé à l’abdomen lors d’un rassemblement à Juiz de Fora, dans le Minas Gerais. L’agresseur sera reconnu atteint de troubles mentaux et interné en établissement psychiatrique. Jair Bolsonaro passe environ trois semaines de la campagne à l’hôpital."
+    },
+    "2018-flavio-senate": {
+      "title": "Flávio Bolsonaro élu sénateur",
+      "summary": "Flávio remporte l’un des deux sièges de Rio de Janeiro au Sénat avec environ 4,38 millions de voix, lors de l’élection qui porte son père à la présidence."
+    },
+    "2018-jair-elected-president": {
+      "title": "Jair Bolsonaro élu président du Brésil",
+      "summary": "Jair Bolsonaro bat Fernando Haddad (Parti des travailleurs) au second tour avec environ 55 % des suffrages exprimés. Haddad avait remplacé Lula, alors emprisonné et déclaré inéligible."
+    },
+    "2018-coaf-queiroz-report": {
+      "title": "Un rapport financier vise un ancien collaborateur de Flávio : début de l’affaire de la « rachadinha »",
+      "summary": "Un rapport du COAF, la cellule de renseignement financier du Brésil, signale environ 1,2 million de réais de mouvements atypiques sur le compte de Fabrício Queiroz, ancien collaborateur et chauffeur de Flávio à l’Assemblée de Rio. Les dépôts coïncidaient avec les jours de paie du personnel, ce qui fait soupçonner un système de reversement de salaires. Flávio nie toute irrégularité.",
+      "context": "« Rachadinha » est une expression familière brésilienne qui désigne le fait d’obliger des employés à reverser une partie de leur salaire public à l’élu qui les a embauchés."
+    },
+    "2019-jair-inauguration": {
+      "title": "Jair Bolsonaro prend ses fonctions de président",
+      "summary": "Jair Bolsonaro prête serment comme président du Brésil à Brasília. Le secrétaire d’État américain Mike Pompeo est présent, et le président Trump salue son discours d’investiture."
+    },
+    "2019-marielle-suspects-arrested": {
+      "title": "Arrestation des suspects du meurtre de Marielle Franco ; l’un vit dans la résidence de Jair Bolsonaro",
+      "summary": "La police arrête deux anciens policiers : Ronnie Lessa, accusé d’avoir tiré, et Élcio de Queiroz, accusé d’avoir conduit la voiture. Lessa est arrêté chez lui, dans la résidence fermée de Barra da Tijuca où le président Jair Bolsonaro possède une maison. Une photo de 2011 publiée par Queiroz sur Facebook semblait le montrer aux côtés de Jair, qui a répondu avoir été photographié avec des milliers de soldats dans tout le Brésil. Le commissaire chargé de l’enquête a confirmé qu’un des fils de Jair était sorti avec la fille de Lessa, et a déclaré à l’AFP que l’enquête n’avait trouvé aucun lien direct avec la famille Bolsonaro."
+    },
+    "2019-marielle-doorman-report": {
+      "title": "Un gardien cite « seu Jair » ; le parquet affirme que l’enregistrement de l’interphone le contredit",
+      "summary": "TV Globo rapporte qu’un gardien de la résidence a déclaré à la police que, quelques heures avant le meurtre, Élcio de Queiroz avait annoncé se rendre chez Jair Bolsonaro, et que son entrée avait été autorisée par une voix qu’il a identifiée comme celle de « seu Jair » (monsieur Jair). Globo a aussi indiqué que Jair se trouvait ce jour-là à Brasília, à la Chambre des députés. Le lendemain, le parquet de Rio affirme que l’enregistrement de la loge montre que l’appel a été passé vers la maison de Lessa et que ses experts ont identifié sa voix, ce qui rend le témoignage incompatible avec l’enregistrement. Carlos Bolsonaro publie des vidéos où il diffuse des enregistrements de l’interphone de la résidence. Jair qualifie le reportage de journalisme pourri et infâme et menace de ne pas renouveler la concession de Globo."
+    },
+    "2020-queiroz-arrested": {
+      "title": "Fabrício Queiroz arrêté dans une propriété d’un avocat de la famille Bolsonaro",
+      "summary": "La police arrête Queiroz à Atibaia, dans l’État de São Paulo, dans une propriété de Frederick Wassef, avocat de Jair et de Flávio Bolsonaro, en vertu d’un mandat de l’enquête sur la « rachadinha ». Wassef nie l’avoir hébergé."
+    },
+    "2020-flavio-charged": {
+      "title": "Le parquet inculpe Flávio dans l’affaire de la « rachadinha »",
+      "summary": "Le parquet de l’État de Rio de Janeiro accuse Flávio et 16 autres personnes, dont Queiroz, de détournement de fonds, blanchiment et association de malfaiteurs pour un système de prélèvement sur les salaires dans son ancien cabinet à l’Assemblée de l’État, entre 2007 et 2018. Flávio dénonce des accusations sans fondement."
+    },
+    "2021-pfizer-offers-unanswered": {
+      "title": "Pfizer affirme devant la commission du Sénat que ses offres de vaccins de 2020 sont restées sans réponse",
+      "summary": "Devant la commission d’enquête du Sénat sur le Covid, le directeur de Pfizer pour l’Amérique latine, Carlos Murillo, affirme que l’entreprise a proposé à plusieurs reprises son vaccin au ministère de la Santé entre août et novembre 2020 sans obtenir de réponse, et qu’une lettre du PDG de Pfizer adressée le 12 septembre à Jair Bolsonaro et à des membres de son gouvernement est restée deux mois sans réponse. Le Brésil n’a signé un contrat pour 100 millions de doses qu’en mars 2021. Jair a affirmé que le pays avait obtenu un meilleur accord que celui proposé auparavant, invoquant des incertitudes juridiques et sanitaires tant que le vaccin n’était pas homologué.",
+      "context": "Le Sénat a ouvert cette commission d’enquête (la CPI da Covid) en avril 2021 pour examiner la gestion de la pandémie par le gouvernement fédéral, qui avait alors fait plus de 420 000 morts au Brésil."
+    },
+    "2021-covaxin-miranda-warning": {
+      "title": "Affaire Covaxin : deux frères affirment avoir alerté Jair Bolsonaro d’irrégularités",
+      "summary": "Le député Luis Miranda et son frère Luis Ricardo Miranda, fonctionnaire du ministère de la Santé, déclarent devant la commission du Sénat qu’en mars 2021 ils ont alerté Jair Bolsonaro d’irrégularités dans un contrat de plus de 300 millions de dollars pour l’achat de 20 millions de doses du vaccin indien Covaxin, par l’intermédiaire de Precisa Medicamentos, et qu’il n’a rien fait pour y remédier. À 15 dollars la dose, le Covaxin coûtait nettement plus cher que le vaccin de Pfizer. Le ministère suspend le contrat le 29 juin. Début juillet, la juge de la Cour suprême Rosa Weber autorise une enquête pour déterminer si Jair a commis une prévarication en n’agissant pas après l’alerte. Jair nie toute irrégularité."
+    },
+    "2021-cpi-covid-final-report": {
+      "title": "La commission du Sénat sur le Covid recommande de poursuivre Jair Bolsonaro pour neuf crimes",
+      "summary": "La commission d’enquête du Sénat sur le Covid adopte son rapport final par 7 voix contre 4 et recommande de poursuivre Jair Bolsonaro pour neuf crimes liés à sa gestion de la pandémie, dont des crimes contre l’humanité, du charlatanisme et l’usage irrégulier de fonds publics. Le rapport vise aussi 77 autres personnes et deux entreprises, dont Precisa Medicamentos. Flávio, Eduardo et Carlos Bolsonaro sont accusés d’incitation au crime pour avoir, selon le rapport, dirigé un réseau de diffusion de fausses informations sur le coronavirus. Flávio juge le rapport juridiquement fragile et politiquement motivé. Jair nie toute irrégularité.",
+      "context": "Une commission parlementaire ne peut pas engager de poursuites elle-même. Cette décision revenait au procureur général Augusto Aras, nommé par Jair Bolsonaro."
+    },
+    "2021-stj-annuls-evidence": {
+      "title": "Une haute juridiction annule la procédure contre Flávio",
+      "summary": "La Cour supérieure de justice (STJ) annule par 4 voix contre 1 les décisions de première instance dans l’affaire de la « rachadinha », estimant que le juge n’était pas compétent pour juger Flávio. En pratique, l’enquête repart de zéro. Plus tôt dans l’année, la cour avait déjà annulé la levée du secret bancaire dans l’affaire."
+    },
+    "2022-covaxin-inquiry-closed": {
+      "title": "L’enquête Covaxin visant Jair Bolsonaro est classée",
+      "summary": "La juge Rosa Weber classe l’enquête pour prévarication à la demande du procureur général Augusto Aras, qui invoque l’absence de motifs suffisants pour la poursuivre. En janvier, la police fédérale avait conclu que Jair n’avait pas commis de prévarication, mais qu’il avait manqué à un devoir civique. Weber avait rejeté une première demande de classement et a rappelé que l’affaire peut être rouverte en cas de nouvelles preuves."
+    },
+    "2022-jair-loses-election": {
+      "title": "Jair Bolsonaro battu par Lula à la présidentielle",
+      "summary": "Luiz Inácio Lula da Silva bat Jair Bolsonaro au second tour, avec 50,9 % contre 49,1 %, l’élection la plus serrée depuis le retour du Brésil à la démocratie et la première fois depuis lors qu’un président sortant n’est pas réélu. Jair Bolsonaro n’appelle pas Lula pour reconnaître sa défaite."
+    },
+    "2022-jair-leaves-for-florida": {
+      "title": "Jair Bolsonaro part en Floride avant la fin de son mandat",
+      "summary": "Deux jours avant l’investiture de Lula, Jair Bolsonaro s’envole pour Orlando, en Floride, et évite la traditionnelle passation de l’écharpe présidentielle. Son immunité présidentielle devait prendre fin à l’entrée en fonctions de Lula."
+    },
+    "2023-january-8-attacks": {
+      "title": "8 janvier : des partisans de Jair Bolsonaro envahissent les sièges des trois pouvoirs",
+      "summary": "Une semaine après l’investiture de Lula, des milliers de partisans de Jair Bolsonaro qui rejettent le résultat de l’élection envahissent et saccagent le Congrès, la Cour suprême et le palais présidentiel à Brasília. Certains réclament une intervention militaire pour ramener Jair Bolsonaro au pouvoir.",
+      "context": "Ces attaques ont été comparées à l’assaut du Capitole américain du 6 janvier 2021."
+    },
+    "2023-michelle-pl-mulher": {
+      "title": "Michelle Bolsonaro prend la tête de la branche féminine du Parti libéral",
+      "summary": "L’ancienne première dame devient présidente nationale de PL Mulher, l’organisation féminine du Parti libéral (PL), le parti de Jair. C’est son entrée en politique."
+    },
+    "2023-tse-ineligible": {
+      "title": "La justice électorale rend Jair Bolsonaro inéligible jusqu’en 2030",
+      "summary": "Le Tribunal supérieur électoral (TSE) juge par 5 voix contre 2 que Jair Bolsonaro a abusé de son pouvoir lorsqu’en juillet 2022 il a utilisé le palais présidentiel et la télévision publique pour affirmer à des ambassadeurs étrangers, sans preuve, que le système de vote était truqué. Il est déclaré inéligible pour huit ans."
+    },
+    "2024-tempus-veritatis": {
+      "title": "Opération de la police fédérale : Jair Bolsonaro doit remettre son passeport",
+      "summary": "Dans le cadre de l’opération Tempus Veritatis, qui enquête sur un complot présumé visant à maintenir Jair Bolsonaro au pouvoir après sa défaite, la police exécute 33 mandats de perquisition et quatre mandats d’arrêt. La Cour suprême ordonne à Jair Bolsonaro de remettre son passeport et lui interdit de quitter le pays."
+    },
+    "2024-renan-city-council": {
+      "title": "Jair Renan Bolsonaro élu conseiller municipal dans l’État de Santa Catarina",
+      "summary": "Le quatrième fils de Jair remporte un siège au conseil municipal de Balneário Camboriú, dans l’État de Santa Catarina, en arrivant en tête des voix. C’est son premier mandat électif. Les quatre fils de Jair ont désormais tous exercé un mandat électif. Le même jour, Carlos est réélu à Rio avec un record de 130 480 voix."
+    },
+    "2024-federal-police-coup-report": {
+      "title": "La police fédérale met en cause Jair Bolsonaro pour un projet de coup d’État",
+      "summary": "La police fédérale met en cause Jair Bolsonaro et 36 autres personnes pour avoir prétendument préparé un coup d’État afin d’annuler l’élection de 2022, et affirme qu’il avait pleinement connaissance d’un projet d’assassinat de Lula. Selon une décision de justice, le vice-président Geraldo Alckmin et le juge de la Cour suprême Alexandre de Moraes étaient aussi visés. Jair Bolsonaro rejette ces accusations."
+    },
+    "2024-marielle-killers-convicted": {
+      "title": "Un jury condamne les deux exécutants du meurtre de Marielle Franco",
+      "summary": "Un jury de Rio de Janeiro condamne les anciens policiers Ronnie Lessa, auteur des tirs, et Élcio de Queiroz, qui conduisait la voiture. Tous deux avaient avoué dans le cadre d’accords de collaboration. Lessa est condamné à 78 ans et 9 mois, et Queiroz à 59 ans et 8 mois."
+    },
+    "2025-pgr-charges-jair": {
+      "title": "Le procureur général inculpe formellement Jair Bolsonaro",
+      "summary": "Le procureur général Paulo Gonet inculpe Jair Bolsonaro et 33 autres personnes devant la Cour suprême, notamment pour tentative de coup d’État et participation à une organisation criminelle armée. L’acte d’accusation décrit un plan qui prévoyait d’empoisonner Lula et de tuer le juge Moraes. Selon Gonet, le plan a été conçu et porté à la connaissance du président, qui l’a approuvé."
+    },
+    "2025-eduardo-moves-to-us": {
+      "title": "Eduardo Bolsonaro se met en congé et reste aux États-Unis",
+      "summary": "Eduardo, aux États-Unis depuis fin février, annonce qu’il se met en congé de son mandat pour y rester et chercher des soutiens internationaux contre ce qu’il appelle la persécution de sa famille. Il fait pression sur l’administration Trump pour obtenir des sanctions contre des responsables brésiliens."
+    },
+    "2025-trump-tariffs": {
+      "title": "Trump annonce 50 % de droits de douane sur le Brésil en invoquant Jair Bolsonaro",
+      "summary": "Dans une lettre à Lula publiée sur les réseaux sociaux, le président Trump annonce des droits de douane de 50 % sur les importations brésiliennes à partir du 1er août, et écrit que le procès de Jair Bolsonaro ne devrait pas avoir lieu et qu’il s’agit d’une chasse aux sorcières qui doit cesser immédiatement. Lula répond que le Brésil ne veut pas d’empereur.",
+      "context": "Les États-Unis ont enregistré un excédent commercial avec le Brésil en 2024."
+    },
+    "2025-magnitsky-sanctions-moraes": {
+      "title": "Les États-Unis sanctionnent le juge de la Cour suprême chargé du dossier de Jair Bolsonaro",
+      "summary": "Le Trésor américain sanctionne le juge Alexandre de Moraes au titre du Global Magnitsky Act, une loi conçue pour viser les auteurs de violations des droits humains et les responsables corrompus, en invoquant des poursuites politisées, notamment contre l’ancien président Jair Bolsonaro. Le département d’État lui avait déjà retiré son visa. Eduardo avait fait campagne pour ces sanctions."
+    },
+    "2025-jair-house-arrest": {
+      "title": "Jair Bolsonaro assigné à résidence",
+      "summary": "Le juge Moraes ordonne l’assignation à résidence après avoir conclu que Jair Bolsonaro a enfreint l’interdiction d’utiliser les réseaux sociaux en faisant publier des contenus sur les comptes de ses trois fils parlementaires (Flávio, Eduardo et Carlos), dont un soutien à une intervention étrangère dans la justice brésilienne."
+    },
+    "2025-jair-convicted": {
+      "title": "La Cour suprême condamne Jair Bolsonaro pour tentative de coup d’État",
+      "summary": "Une chambre de la Cour suprême brésilienne condamne Jair Bolsonaro par 4 voix contre 1 pour tentative de coup d’État après l’élection de 2022 et direction d’une organisation criminelle armée, et le condamne à 27 ans et 3 mois de prison. Il devient le premier ancien président de l’histoire du Brésil condamné pour atteinte à la démocratie. Le secrétaire d’État américain Marco Rubio qualifie le procès de chasse aux sorcières."
+    },
+    "2025-eduardo-charged-coercion": {
+      "title": "Eduardo Bolsonaro inculpé de coercition",
+      "summary": "Le procureur général inculpe Eduardo de coercition, l’accusant d’avoir menacé des juges de la Cour suprême de sanctions américaines qui ruineraient leur vie civile si le procès de son père ne se terminait pas comme il le souhaitait. Eduardo qualifie l’accusation de bidon."
+    },
+    "2025-jair-taken-into-custody": {
+      "title": "Jair Bolsonaro placé en détention après avoir endommagé son bracelet électronique",
+      "summary": "La police fédérale place Jair Bolsonaro en détention en invoquant un risque de fuite, à la veille d’une veillée de partisans devant son domicile. Les agents avaient trouvé son bracelet électronique portant des traces de brûlure ; une vidéo judiciaire le montre reconnaître avoir utilisé un fer à souder. Il dit à un juge que des médicaments l’avaient rendu paranoïaque."
+    },
+    "2025-jair-begins-sentence": {
+      "title": "Jair Bolsonaro commence à purger sa peine de 27 ans",
+      "summary": "La Cour suprême déclare la condamnation définitive et ordonne que Jair Bolsonaro commence à purger sa peine dans une salle du siège de la police fédérale à Brasília."
+    },
+    "2025-flavio-presidential-bid": {
+      "title": "Flávio Bolsonaro lancé comme candidat à la présidentielle",
+      "summary": "Son père étant inéligible et emprisonné, Flávio annonce qu’il sera candidat à la présidentielle de 2026, avec le soutien de Jair."
+    },
+    "2025-eduardo-loses-seat": {
+      "title": "Eduardo Bolsonaro perd son siège au Congrès",
+      "summary": "Le bureau de la Chambre des députés retire son mandat à Eduardo pour avoir manqué plus d’un tiers des séances de l’année alors qu’il vivait aux États-Unis. Son congé avait expiré en juillet."
+    },
+    "2026-marielle-masterminds-convicted": {
+      "title": "La Cour suprême condamne les frères Brazão comme commanditaires du meurtre de Marielle Franco",
+      "summary": "Une chambre de la Cour suprême condamne à l’unanimité l’ancien député fédéral Chiquinho Brazão et son frère Domingos Brazão, conseiller à la Cour des comptes de l’État de Rio, comme commanditaires du meurtre, à 76 ans et 3 mois de prison chacun. Les juges ont conclu que les deux frères avaient comploté la mort de Franco en raison de sa lutte contre l’accaparement illégal de terres. L’ancien commissaire Rivaldo Barbosa est condamné à 18 ans pour corruption et entrave à la justice. Les accusés nient toute responsabilité et peuvent faire appel.",
+      "context": "Aucun membre de la famille Bolsonaro n’était accusé dans ce procès."
+    },
+    "2026-eduardo-convicted": {
+      "title": "Eduardo Bolsonaro condamné par défaut pour coercition",
+      "summary": "Une chambre de la Cour suprême condamne à l’unanimité Eduardo pour coercition, pour avoir réclamé des sanctions américaines contre le Brésil afin de faire pression sur les juges du procès de son père, à quatre ans et deux mois de prison. La condamnation le rend inéligible. Il vit au Texas depuis février 2025 ; ses avocats estiment que les preuves étaient insuffisantes."
+    },
+    "2026-flavio-corruption-probe": {
+      "title": "Flávio visé par une enquête de la Cour suprême pour 61 millions de réais versés par un banquier",
+      "summary": "Des documents judiciaires rendus publics montrent que la Cour suprême a ouvert une enquête sur Flávio pour 61 millions de réais (environ 12 millions de dollars) reçus de Daniel Vorcaro, ancien dirigeant de la Banco Master, en faillite, pour produire « Dark Horse », un film encore inédit sur Jair Bolsonaro. Les enquêteurs examinent de possibles faits de corruption, de blanchiment et de fraude fiscale. Flávio affirme qu’il s’agissait d’un parrainage privé légal."
+    },
+    "2026-first-round": {
+      "title": "Flávio arrive en tête au premier tour de la présidentielle",
+      "summary": "Flávio obtient environ 47 % des suffrages exprimés contre environ 45 % pour le président Lula, déjouant les sondages qui donnaient Lula légèrement en tête. Aucun candidat ne dépassant 50 %, les deux s’affrontent au second tour le 25 octobre."
+    },
+    "2026-michelle-elected-senator": {
+      "title": "Michelle Bolsonaro élue sénatrice du District fédéral",
+      "summary": "Pour sa première candidature, Michelle Bolsonaro (PL) remporte l’un des deux sièges du District fédéral au Sénat, en arrivant en tête avec 938 496 voix (29,1 %). Le second siège revient à Bia Kicis, également du PL.",
+      "context": "Le District fédéral comprend la capitale, Brasília. Les sénateurs brésiliens sont élus pour huit ans ; ce mandat commence le 1er février 2027."
+    },
+    "2026-runoff-lula-wins": {
+      "title": "Lula bat Flávio Bolsonaro au second tour",
+      "summary": "Lula remporte un quatrième mandat avec 51,79 % des suffrages exprimés contre 48,21 % pour Flávio, soit un écart d’environ 4,4 millions de voix. C’est la première fois que le candidat arrivé en tête au premier tour perd le second tour d’une présidentielle brésilienne. Flávio dit vouloir faire annuler le résultat ; son parti l’accepte le lendemain. Le président Trump affirme, sans preuve, que le scrutin ressemblait à une nouvelle élection truquée."
+    },
+    "2026-flavio-passport-order": {
+      "title": "La Cour suprême ordonne à Flávio de remettre ses passeports",
+      "summary": "Au lendemain de l’élection, la Cour suprême ordonne à Flávio de remettre ses passeports dans le cadre d’une enquête pour blanchiment. Flávio affirme n’avoir jamais pensé à quitter le pays et vouloir rester pour diriger l’opposition."
+    },
+    "2026-flavio-flees-to-us": {
+      "title": "Flávio Bolsonaro s’enfuit aux États-Unis",
+      "summary": "Sans avoir remis ses passeports, Flávio passe en Argentine avec sa femme et ses filles, prend un jet privé via l’Équateur et atterrit à l’aéroport d’affaires de Miami-Opa Locka. Le département d’État annonce qu’il accordera des visas à la famille, et Trump dit approuver. Flávio affirme qu’il dirigera l’opposition brésilienne depuis les États-Unis. Lula qualifie ce départ de honteux et estime que celui qui quitte son pays en cachette a quelque chose à cacher.",
+      "context": "Quelques semaines plus tôt, son frère Eduardo, qui vivait déjà aux États-Unis, avait déclaré dans un podcast que Flávio devrait quitter le Brésil s’il perdait."
+    },
+    "2026-flavio-letter-claims-presidency": {
+      "title": "Depuis Miami, Flávio publie une lettre où il se présente comme le président élu du Brésil",
+      "summary": "Quelques heures après son arrivée aux États-Unis, Flávio publie sur X une lettre ouverte dans laquelle il se présente comme le véritable président élu du Brésil. Une vingtaine de minutes plus tard, il la modifie pour se qualifier de dirigeant légitime du Brésil et affirme que l’élection a été volée par une organisation criminelle. La première version de la lettre, diffusée par son allié Paulo Figueiredo, portait d’anciennes armoiries avec l’inscription « Estados Unidos do Brazil » (avec un z) ; elle a ensuite été rediffusée avec les armoiries actuelles. Sans mentionner la lettre, le président du Tribunal supérieur électoral, Kassio Nunes Marques, affirme que l’élection s’est déroulée dans le plein respect de la loi et de la Constitution.",
+      "context": "États-Unis du Brésil a été le nom officiel du pays de 1889 à 1967. La victoire de Lula avait déjà été validée par la justice électorale et reconnue par les observateurs internationaux et par le propre parti de Flávio, le PL."
+    }
+  }
+}

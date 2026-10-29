@@ -49,6 +49,8 @@ a { color: var(--accent); }
 /* Header */
 .site-header { border-bottom: 1px solid var(--border); background: var(--surface); }
 .header-inner { display: flex; gap: 16px; align-items: flex-start; justify-content: space-between; padding-top: 20px; padding-bottom: 20px; }
+.brand { display: flex; gap: 12px; align-items: center; }
+.brand .logo { flex: none; }
 .brand h1 { margin: 0; font-size: 1.6rem; line-height: 1.2; }
 .brand p { margin: 4px 0 0; color: var(--muted); }
 .lang-picker select {

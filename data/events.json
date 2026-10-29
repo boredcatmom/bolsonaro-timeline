@@ -22,6 +22,14 @@
       ]
     },
     {
+      "id": "2000-flavio-chamber-post", "date": "2000-12", "people": ["flavio"], "category": "investigation",
+      "note": "Reported by BBC News Brasil in January 2019. The BBC does not use the term 'ghost employee'; keep the wording to what it documented.",
+      "sources": [
+        { "url": "https://www.bbc.com/portuguese/brasil-46828487", "outlet": "BBC News Brasil", "title": "Como Flávio Bolsonaro ocupou um cargo na Câmara dos Deputados enquanto fazia faculdade e estágio no Rio", "lang": "pt" },
+        { "url": "https://www.gazetadopovo.com.br/politica/republica/flavio-bolsonaro-tinha-cargo-em-brasilia-mas-estudava-a-1000-km-de-distancia-3uakm6jax27vcr31p2uiuy0uk/", "outlet": "Gazeta do Povo", "title": "Flávio Bolsonaro tinha emprego em Brasília e estudava no Rio", "lang": "pt" }
+      ]
+    },
+    {
       "id": "2002-flavio-state-deputy", "date": "2002-10-06", "people": ["flavio"], "category": "office",
       "sources": [
         { "url": "https://congressoemfoco.com.br/legislativo/conheca-flavio-o-unico-filho-de-bolsonaro-que-nao-comentou-a-crise-do-psl", "outlet": "Congresso em Foco", "title": "Conheça Flávio, o único filho de Bolsonaro que não comentou a crise do PSL", "lang": "pt" },
@@ -39,6 +47,13 @@
       "sources": [
         { "url": "https://tribune.com.pk/story/1088505/entertainment", "outlet": "AFP via The Express Tribune", "title": "Torture-praising politician seizes limelight in Brazil", "lang": "en" },
         { "url": "https://www.congressoemfoco.com.br/noticia/117872/bolsonaro-a-glauber-relembre-votos-que-marcaram-impeachment-de-dilma", "outlet": "Congresso em Foco", "title": "De Bolsonaro a Glauber: relembre votos que marcaram impeachment de Dilma", "lang": "pt" }
+      ]
+    },
+    {
+      "id": "2018-marielle-franco-killed", "date": "2018-03-14", "people": [], "category": "context",
+      "sources": [
+        { "url": "https://www.irishtimes.com/news/world/rio-de-janeiro-councillor-who-condemned-police-killings-shot-dead-1.3428745", "outlet": "Reuters via The Irish Times", "title": "Rio de Janeiro councillor who condemned police killings shot dead", "lang": "en" },
+        { "url": "https://www.cbc.ca/news/world/marielle-franco-brazil-rio-police-1.4579010", "outlet": "CBC News (AP)", "lang": "en" }
       ]
     },
     {
@@ -75,6 +90,21 @@
       ]
     },
     {
+      "id": "2019-marielle-suspects-arrested", "date": "2019-03-12", "people": ["jair"], "category": "investigation",
+      "sources": [
+        { "url": "https://www.thejakartapost.com/news/2019/03/13/bolsonaro-links-to-franco-murder-suspects-coincidence-say-police.html", "outlet": "AFP via The Jakarta Post", "title": "Bolsonaro links to Franco murder suspects coincidence, say police", "lang": "en" },
+        { "url": "https://en.mercopress.com/2019/03/13/activist-murder-arrested-suspects-have-coincidental-links-with-president-bolsonaro", "outlet": "MercoPress", "title": "Activist murder arrested suspects have 'coincidental' links with President Bolsonaro", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2019-marielle-doorman-report", "date": "2019-10-29", "people": ["jair", "carlos"], "category": "investigation",
+      "sources": [
+        { "url": "https://www.aljazeera.com/news/2019/10/30/brazil-president-threatens-to-cancel-globo-tv-over-report", "outlet": "Al Jazeera", "title": "Brazil president threatens to cancel Globo TV over report", "lang": "en" },
+        { "url": "https://www.congressoemfoco.com.br/noticia/38742/ministerio-publico-afirma-que-audio-da-portaria-contradiz-porteiro", "outlet": "Congresso em Foco", "title": "Ministério Público afirma que áudio da portaria contradiz porteiro", "lang": "pt" },
+        { "url": "https://www.agazeta.com.br/brasil/carlos-bolsonaro-acessa-gravacoes-e-nega-ligacao-de-portaria-a-casa-do-pai-1019", "outlet": "Folhapress via A Gazeta", "title": "Carlos Bolsonaro acessa gravações e nega ligação de portaria à casa do pai", "lang": "pt" }
+      ]
+    },
+    {
       "id": "2020-queiroz-arrested", "date": "2020-06-18", "people": ["flavio"], "category": "investigation",
       "sources": [
         { "url": "https://www.irishtimes.com/news/world/jair-bolsonaro-under-pressure-as-son-s-former-aide-arrested-1.4283610", "outlet": "The Irish Times", "title": "Jair Bolsonaro under pressure as son's former aide arrested", "lang": "en" },
@@ -89,10 +119,40 @@
       ]
     },
     {
+      "id": "2021-pfizer-offers-unanswered", "date": "2021-05-13", "people": ["jair"], "category": "investigation",
+      "sources": [
+        { "url": "https://globalnews.ca/news/7861069/brazil-covid-pfizer/", "outlet": "Reuters via Global News", "title": "Brazil ignored Pfizer's offers of COVID-19 vaccine for months last year, company says", "lang": "en" },
+        { "url": "https://en.mercopress.com/2021/05/14/brazil-could-have-bought-pfizer-vaccines-much-earlier-but-bolsonaro-ignored-the-offer", "outlet": "MercoPress", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2021-covaxin-miranda-warning", "date": "2021-06-25", "people": ["jair"], "category": "investigation",
+      "sources": [
+        { "url": "https://kvia.com/cnn-other/2021/06/30/brazil-suspends-covid-19-vaccine-deal-with-indian-firm-amid-allegations-of-contract-irregularities/", "outlet": "CNN via KVIA", "title": "Brazil suspends Covid-19 vaccine deal with Indian firm amid allegations of contract irregularities", "lang": "en" },
+        { "url": "https://scroll.in/latest/998866/scroll_in", "outlet": "Reuters via Scroll.in", "title": "Coronavirus: Brazil to suspend Covaxin contract amid inquiry into deal", "lang": "en" },
+        { "url": "https://scroll.in/latest/999243/scroll_in", "outlet": "AP/Reuters via Scroll.in", "title": "Brazil Supreme Court opens investigation into Jair Bolsonaro's role in Covaxin scandal", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2021-cpi-covid-final-report", "date": "2021-10-26", "people": ["jair", "flavio", "eduardo", "carlos"], "category": "investigation",
+      "sources": [
+        { "url": "https://www.aljazeera.com/news/2021/10/27/update-1-brazil-senate-committee-approves-report-calling-for-bolsonaro-to-be-indicted", "outlet": "Al Jazeera (AP/Reuters)", "title": "Brazil Senate report backs criminal charges against Bolsonaro", "lang": "en" },
+        { "url": "https://sbtnews.sbt.com.br/noticia/congresso/184683-cpi-da-covid-aprova-relatorio-que-pede-indiciamento-de-bolsonaro", "outlet": "SBT News", "title": "CPI da Covid aprova relatório que pede indiciamento de Bolsonaro", "lang": "pt" },
+        { "url": "https://www.em.com.br/app/noticia/politica/2021/10/26/interna_politica,1317411/por-7-votos-a-4-cpi-aprova-relatorio-final-com-pedido-indiciamento-de-bols.shtml", "outlet": "Estado de Minas", "title": "Por 7 votos a 4, CPI aprova relatório final com pedido indiciamento de Bolsonaro", "lang": "pt" }
+      ]
+    },
+    {
       "id": "2021-stj-annuls-evidence", "date": "2021-11-09", "people": ["flavio"], "category": "justice",
       "sources": [
         { "url": "https://www.cnnbrasil.com.br/politica/stj-anula-decisoes-contra-flavio-bolsonaro-no-caso-das-rachadinhas/", "outlet": "CNN Brasil", "title": "STJ anula decisões contra Flávio Bolsonaro no caso das \"rachadinhas\"", "lang": "pt" },
         { "url": "https://www.brasildefato.com.br/2021/11/10/stj-anula-todas-as-decisoes-da-justica-do-rj-contra-flavio-bolsonaro/", "outlet": "Brasil de Fato", "lang": "pt" }
+      ]
+    },
+    {
+      "id": "2022-covaxin-inquiry-closed", "date": "2022-04", "people": ["jair"], "category": "justice",
+      "sources": [
+        { "url": "https://www.tnh1.com.br/noticia/nid/ministra-do-stf-arquiva-inquerito-contra-presidente-no-caso-covaxin/", "outlet": "Agência Brasil via TNH1", "title": "Ministra do STF arquiva inquérito contra presidente no caso Covaxin", "lang": "pt" },
+        { "url": "https://www.congressoemfoco.com.br/noticia/44520/rosa-weber-nega-arquivamento-de-inquerito-contra-bolsonaro", "outlet": "Congresso em Foco", "title": "Rosa Weber nega arquivamento de inquérito contra Bolsonaro", "lang": "pt" }
       ]
     },
     {
@@ -139,6 +199,13 @@
       "id": "2024-renan-city-council", "date": "2024-10-06", "people": ["renan", "carlos"], "category": "office",
       "sources": [
         { "url": "https://www.congressoemfoco.com.br/area/pais/carlos-bolsonaro-e-jair-renan-sao-os-vereadores-mais-votados-no-rio-e-em-balneario-camboriu/", "outlet": "Congresso em Foco", "title": "Carlos Bolsonaro e Jair Renan são os vereadores mais votados no Rio e em Balneário Camboriú", "lang": "pt" }
+      ]
+    },
+    {
+      "id": "2024-marielle-killers-convicted", "date": "2024-10-31", "people": [], "category": "context",
+      "sources": [
+        { "url": "https://www.news4jax.com/news/world/2024/10/31/brazil-judge-gives-2-former-cops-long-sentence-for-the-2018-killing-of-leftist-icon-marielle-franco/", "outlet": "AP via News4JAX", "title": "Brazil judge gives 2 former cops long sentence for the 2018 killing of leftist icon Marielle Franco", "lang": "en" },
+        { "url": "https://www.thestar.com.my/news/world/2024/11/01/brazilian-ex-police-officers-get-decades-in-prison-for-2018-murder-of-rio-politician", "outlet": "Reuters via The Star", "title": "Brazilian ex-police officers get decades in prison for 2018 murder of Rio politician", "lang": "en" }
       ]
     },
     {
@@ -225,6 +292,13 @@
       ]
     },
     {
+      "id": "2026-marielle-masterminds-convicted", "date": "2026-02-25", "people": [], "category": "context",
+      "sources": [
+        { "url": "https://www.aljazeera.com/news/2026/2/26/brazils-supreme-court-imposes-steep-sentences-for-marielle-franco-murder", "outlet": "Al Jazeera", "title": "Brazil's Supreme Court imposes steep sentences for Marielle Franco murder", "lang": "en" },
+        { "url": "https://agenciabrasil.ebc.com.br/en/justica/noticia/2026-02/masterminds-behind-rio-councilor-marielle-francos-murder-convicted", "outlet": "Agência Brasil", "title": "Masterminds behind Rio councilor Marielle Franco's murder convicted", "lang": "en" }
+      ]
+    },
+    {
       "id": "2026-eduardo-convicted", "date": "2026-06-16", "people": ["eduardo"], "category": "justice",
       "sources": [
         { "url": "https://www.washingtontimes.com/news/2026/jun/16/brazils-top-court-convicts-son-former-president-bolsonaro-coercion/", "outlet": "AP via The Washington Times", "title": "Brazil's top court convicts son of former president Bolsonaro for coercion", "lang": "en" },
@@ -243,6 +317,13 @@
       "sources": [
         { "url": "https://www.aljazeera.com/news/2026/10/5/brazils-presidential-race-three-key-takeaways-from-the-first-round", "outlet": "Al Jazeera", "title": "Brazil's presidential race: Three key takeaways from the first round", "lang": "en" },
         { "url": "https://en.mercopress.com/2026/10/05/flavio-bolsonaro-edges-lula-in-the-first-round-both-head-to-an-october-25-runoff", "outlet": "MercoPress", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2026-michelle-elected-senator", "date": "2026-10-04", "people": ["michelle"], "category": "office",
+      "sources": [
+        { "url": "https://www.aljazeera.com/news/2026/10/5/bolsonaro-favourite-to-win-what-brazils-first-round-of-election-tells-us", "outlet": "Al Jazeera", "title": "Bolsonaro favourite to win: What Brazil's first round of elections tells us", "lang": "en" },
+        { "url": "https://www12.senado.leg.br/radio/1/noticia/2026/10/04/michelle-bolsonaro-e-bia-kicis-sao-eleitas-para-o-senado-no-distrito-federal", "outlet": "Rádio Senado", "title": "Michelle Bolsonaro e Bia Kicis são eleitas para o Senado no Distrito Federal", "lang": "pt" }
       ]
     },
     {
@@ -265,6 +346,15 @@
         { "url": "https://www.nbcnews.com/world/brazil/flavio-bolsonaro-arrives-miami-election-defeat-rcna606099", "outlet": "NBC News (Reuters/AP)", "title": "Brazil's Flávio Bolsonaro arrives in Miami after election defeat", "lang": "en" },
         { "url": "https://www.cnn.com/2026/10/27/americas/flavio-bolsonaro-brazil-passports-latam-intl", "outlet": "CNN", "lang": "en" },
         { "url": "https://www.aljazeera.com/news/2026/10/27/flavio-bolsonaro-flees-brazil-after-election-loss-us-says-will-grant-visa", "outlet": "Al Jazeera", "lang": "en" }
+      ]
+    },
+    {
+      "id": "2026-flavio-letter-claims-presidency", "date": "2026-10-28", "people": ["flavio"], "category": "statements",
+      "note": "Outlets differ on the exact first-version wording (\"verdadeiro presidente\" vs \"verdadeiro presidente eleito\"), so the summary avoids quoting it.",
+      "sources": [
+        { "url": "https://www.abc.net.au/news/2026-10-29/flavio-bolsonaro-arrives-in-florida/107321346", "outlet": "ABC News (Australia)", "title": "After landing in US, Flávio Bolsonaro declares himself Brazil's rightful leader", "lang": "en" },
+        { "url": "https://sbtnews.sbt.com.br/noticia/politica/flavio-usa-brasao-antigo-em-carta-estados-unidos-do-brazil", "outlet": "SBT News", "title": "Flávio usa brasão antigo em carta: Estados Unidos do Brazil", "lang": "pt" },
+        { "url": "https://ndmais.com.br/politica/flavio-bolsonaro-muda-carta-presidente-eleito-lider/", "outlet": "ND Mais", "title": "Flávio Bolsonaro apagou da carta o trecho em que se dizia 'verdadeiro presidente eleito': veja o que mudou entre as duas versões", "lang": "pt" }
       ]
     }
   ]
